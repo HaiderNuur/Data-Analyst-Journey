@@ -1,4 +1,4 @@
-Week One
+# Week One
 
 Question 1: Data analysis is the various elements that interact with one another in order to provide, manage, store, organize, analyze, and share data.
 Answer: False: That's Data Ecosystem
@@ -23,4 +23,41 @@ Answer: Share the results with subject-matter experts from the marketing team fo
 
 Q8: You read an interesting article in a magazine and want to share it in the discussion forum. What should you do when posting? Select all that apply.
 Anser: Check for your post for typos and grammatical errors, make sure the article is relevant to data-analytics.
+
+# Week Two
+Q1: A junior data analyst is seeking out new experiences in order to gain knowledge. They watch videos and read articles about data analytics. They ask experts questions. Which analytical skill are they using?
+
+A: Curiosity
+
+Q2: Understanding context is an analytical skill best described by which of the following? Select all that apply
+
+A: Gathering additional information about data to understand the bigger picture, identifying the motivation behind the collection of a dataset, adding descriptive headers to columns of data in a spreadsheet 
+
+Q3: A data analyst works for an appliance manufacturer. Last year, the company’s profits were down. Lower profits can be a result of fewer people buying appliances, higher costs to make appliances, or a combination of both. The analyst recognizes that those are big issues to solve, so they break down the problems into smaller pieces to analyze them in an orderly way. Which analytical skill are they using?
+
+A: A technical mindset
+
+Q4:Data design is how you organize information; data strategy is the management of the people, processes, and tools used in data analysis. 
+
+A: True
+
+Q5: Question 5
+The manager at a music shop notices that more trombones are repaired on the days when Alex and Jasmine work the same shift. After some investigation, the manager discovers that Alex is excellent at fixing slides, and Jasmine is great at shaping mouthpieces. Working together, Alex and Jasmine repair trombones faster. The manager is happy to have discovered this relationship and decides to always schedule Alex and Jasmine for the same shifts. In this scenario, the manager used which quality of analytical thinking?
+
+A: Correlation
+
+Q6: Question 6
+The five whys is a technique that involves asking, “Why?” five times in order to achieve what goal?
+
+A: Identify the root cause of a problem
+
+Q7:Question 7
+An airport wants to make its luggage-handling process faster and simpler for travelers. A data analyst examines and evaluates how the process works currently in order to achieve the goal of a more efficient process. What methodology do they use? 
+
+A: Gap analysis
+
+Q8: Question 8
+A company is receiving negative comments on social media about their products. To solve this problem, a data analyst uses each of their five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. This makes it possible for the analyst to use facts to guide business strategy and figure out how to improve customer satisfaction. What is this an example of?
+
+A:Data-driven decision making
 
