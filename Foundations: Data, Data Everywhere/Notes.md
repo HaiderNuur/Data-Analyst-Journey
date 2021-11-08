@@ -39,7 +39,24 @@
   Destroy  : Remove data from storage and delete any copies of the data.
   
   
-  
- 
+  # Week Four
+  ##### The basic structure of a query pulling results from a single table is as follows.
+    SELECT
+          Column_name(s)
+    FROM
+          Table_name(s)
+    WHERE
+          Condition
+    Group by
+          Col_name(s)
+    Having
+          Aggregate_condition(s)
+    ORDER BY
+          Col_name
+    LIMIT
+          N;
+   
+   
+   
  
  
