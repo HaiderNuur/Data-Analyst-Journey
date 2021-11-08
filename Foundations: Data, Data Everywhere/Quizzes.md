@@ -61,3 +61,23 @@ A company is receiving negative comments on social media about their products. T
 
 A:Data-driven decision making
 
+# Week Three
+Q1: Fill in the blank: A business decides what kind of data it needs, how the data will be managed, and who will be responsible for it during the _____ stage of the data life cycle.
+A: Plan
+Q2: Question 2
+A data analyst has finished an analysis project that involved private company data. They erase the digital files in order to keep the information secure. This describes which stage of the data life cycl
+A: Destroy
+Q3: During the capture stage of the data life cycle, a data analyst may use spreadsheets to aggregate data. 
+A: False
+Q4: Describe how the data life cycle differs from data analysis.
+A: 
+Q5: What actions might a data analytics team take in the act phase of the data analysis process? Select all that apply.
+A: Putting a plan into action to solve a business problem, finalizing a strategy based on the analysis
+Q6: Fill in the blank: A formula is a set of instructions used to perform a specified calculation; whereas a function is 
+A: A predefined instruction
+Q7: Fill in the blank: To request, retrieve, and update information in a database, data analysts use a 
+A: Query
+Q8: Fill in the blank: Structured query language (SQL) enables data analysts to _____ the information in a database. Select all that apply.
+A: Retrieve, request, update
+Q9: A data analyst uses a spreadsheet function to aggregate data. Then, they add a pivot table to show totals from least to greatest. This would happen during which stage of the data life cycle?
+A:analyze 
