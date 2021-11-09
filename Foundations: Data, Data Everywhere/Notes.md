@@ -59,4 +59,30 @@
    
    
  
- 
+# Week Five
+Examples of Roles of a data analyst: (Which industry is it Q)
+- Use geographic data to power GPS technology in cars: Technology
+- Use demographic data to target advertisements      : Marketing
+- Use stock market data to determine which portfolios to invest in: Finance
+- Use bed occupancy data to determine the number of nurses and orderlies to schedule on a given shift: Healthcare
+- Use past booking data to accurately anticipate levels of demand for hotel rooms: Hospitality
+- Use population data to determine which communities need federal funding: Government
+
+Types of different Data Analyst jobs:
+- Business analyst — analyzes data to help businesses improve processes, products, or services
+- Data analytics consultant — analyzes the systems and models for using data
+- Data engineer — prepares and integrates data from different sources for analytical use
+- Data scientist — uses expert skills in technology and social science to find trends through data analysis
+- Data specialist — organizes or converts data for use in databases or software systems
+- Operations analyst — analyzes data to assess the performance of business operations and workflows
+- Marketing analyst — analyzes market conditions to assess the potential sales of products and services 
+- HR/payroll analyst — analyzes payroll data for inefficiencies and errors
+- Financial analyst — analyzes financial status by collecting, monitoring, and reviewing data
+- Risk analyst — analyzes financial documents, economic conditions, and client data to help companies determine the level of risk involved in making a particular business decision
+
+
+
+
+Healthcare analyst — analyzes medical data to improve the business aspect of hospitals and medical facilities
+
+
