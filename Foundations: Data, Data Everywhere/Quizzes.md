@@ -93,7 +93,7 @@ A:analyze
 #Week Four
 Not Needed
 
-#Week Five
+# Week Five
 
 Q1 : An online gardening magazine wants to understand why its subscriber numbers have been increasing. A data analyst discovers that significantly more people subscribe when the magazine has its annual 50%-off sale. This is an example of what?
 A: Analyzing customers busying behaviors
