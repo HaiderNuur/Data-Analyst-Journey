@@ -1,5 +1,6 @@
 07.02.2021
-Week 1
+
+# Week 1
 Data Analyst Role: 
 Responsibilities of a Data Analyst:
 -	Acquiring data from primary & secondary sources
@@ -77,7 +78,8 @@ As analyst is clear about initial hypotheses and set of questions
 -	according to area wise concentration, and significant concentration of complaints based on date of connection
 -	pull out make and serial number of the meters, see  that the make and the serial number of the meters belong to a single supplier.
 -	Feel confident to present these findings to the stakeholders, data sources and process of finding.
-Week 2
+-	
+# Week 2
 -	Data can come in variety of file formats: relational, non-relational database, APIs, Web services, data streams, social platforms, sensor devices.
 -	Data repositories: Databases, Data warehouses, Data Marts, Data lakes, Big data sources.
 -	Type, file format & source of data influence the type of data repositories that you would collect, clean, mine for analysis
@@ -122,7 +124,9 @@ Data Pipeline, sometimes used interchangeably with ETL, encompasses the entire j
 Big Data refers to the vast amounts of data that is being produced each moment of every day, by people, tools, and machines. The sheer velocity, volume, and variety of data challenge the tools and systems used for conventional data. These challenges led to the emergence of processing tools and platforms designed specifically for Big Data, such as Apache Hadoop, Apache Hive, and Apache Spark.
 13/02/21
 -	Process for identifying data: Determine the information you want to collect
-WHAT a GAP! From February and now end of October
+
+
+# WHAT a GAP! From February and now end of October
 
 
 28.10.2021
