@@ -130,7 +130,7 @@ Big Data refers to the vast amounts of data that is being produced each moment o
 
 
 28.10.2021
-WEEK 3: Gathering and Wrangling Data
+# WEEK 3: Gathering and Wrangling Data
 Process of Identifying data for analysis: 
 -	Determine the information you want to collect: The specific information you need and The possible sources for this data
 -	Define a plan for collecting data (The purpose is to establish the clarity you need for execution)– 1. Establish a timeframe for collecting data, 2. How much data is sufficient for a credible data analysis 3. Define dependencies, risks and mitigation plan
@@ -145,7 +145,23 @@ Data Sources
 -	Secondary Data: information retrieved from existing sources. (External Databases, research articles, publications, training material, internet searches or financial records available as publica data, or data collected through externally conducted surveys, interviews, discussions, observations or focus groups
 -	Third-party data: purchased from aggregators who collect data from various sources and combine it into comprehensive datasets for selling
 -	Sources For gathering Data: 
--	
--	
+
+17.11.21
+###### Data Wrangling
+- Data wrangling or data mungling is an iterative process that includes data exploration, transformation, validation and making it available for a credible data analysis.
+- Comes with 4 steps of process: Discovery, Transformation, validation, publishing.
+- Discovery phase: examining and understanding your data with respect to your use case, creating a plan for cleaning, structuring, organizing and mapping your data.
+- Transformation phase: Structuring, Normalizing and denormalizing, cleaning and enriching data.
+###### Data Wrangling Tools
+- Spreadsheets: Google sheets, Excel
+- OpenRefine: Allows to import and export in TSV, CSV, XLS, XML, JSON and so on.
+- Google Data Prep: can visually clea, prepare and explore both structured and unstructured data for analysis.
+- Watson Studio Refinery: allows you to cleanse and transform data with built in operations, it transforms large amount of raw data into consumable, quality information
+that is ready for analysis
+- Trifactor Wrangler: 
+- Python: Data manipulation capabilities (Jupiter notebook, numpy, pandas, R
+
+###### Quality of Data
+- 
 
 
