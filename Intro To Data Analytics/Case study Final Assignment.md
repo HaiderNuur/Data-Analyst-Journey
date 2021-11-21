@@ -38,13 +38,13 @@ The graph below samples one such visualization that you would use to capture a t
 ## In the next section you will be asked to answer the following 5 (five) questions based on this case study:
 
 #### Question 1:List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. (3 marks)
-Answer: (Trn#3,ellend), (Trn#2, johnp), (Trn#3, johnp), (Trn#4, johnp), (Trn#5,johnp): 
-I chose these 5 points as  they are unusual than normal, for example for ellend, suddenly transaction no 2 soared, same goes for johnp for the consequitive 4 transations. 
+Answer: IP address, user ID, Account number, Shipping address, Transaction date, Transaction TIme, Transaction value. 
 
 #### Question 2: Refer to the data table below and identify 3 (three) errors/issues that could impact the accuracy of your findings. (3 marks)
 ![MNep_ZY-ScaXqf2WPrnG0Q_3be5abeee8944747ab0a58a705df415c_DA_1-Q7-Data-Table](https://user-images.githubusercontent.com/20629270/142776799-299528ed-8a24-4c59-a938-2572d98871fb.png)
 
 Answer: 1. Two transaction ids are missing 2. one transaction value is missing 3. Age of the user ellend is missing
+Good Answer: Missing transaction value, Missing IP Address, Date format inconsistency
 
 #### Question 3: Refer to the data table below and identify 2 (two) anomalies or unexpected behaviors, that would lead you to believe the transaction may be suspect. (2 marks)
 Answer:
@@ -52,11 +52,20 @@ Answer:
 value of these orders are pretty higher than normal, also 4th & 5th order are done in minutes. 
 3. For ellend, the 3rd transaction is suspecious because the ip addrees is different, postal address is different and value is pretty bigger
 
+Good answer: 
+- Significantly higher Transaction Value where Shipping Address has been changed from home/office address to P.O. Box.
+- Higher Transaction Value and increased frequency of transactions.
+- IP Address change and significantly higher Transaction Value.
+- IP Address change and Shipping Address change
+
 #### Question 4: Briefly explain your key take-away from the provided data visualization chart. (1 mark)
 ![M1sTK7IQQAibEyuyEAAIBw_62598de906f0424494f10efc877a7c5c_DA_1-Q9-Chart](https://user-images.githubusercontent.com/20629270/142777044-652cce71-7bf0-499a-9e0e-a8d65af850d9.png)
 Answer: There is a high chance the ellend's 3rd transaction is fradulant and also the 3rd, 4th & 5th of johnp
+Good Answer: The visualization depicts the transaction values per transaction for all three users. The key take-away from this visualization is the sharp rise in the transaction values for users johnp and ellend, which may be indicative of an anomaly.  
+
 
 #### QUestion 5:Identify the type of analysis that you are performing when you are analyzing historical credit card data to understand what a fraudulent transaction looks like. 
 Hint: The four types of Analytics include: Descriptive, Diagnostic, Predictive, Prescriptive. (1 mark)
 Answer: it is a Descriptive technique, the data helped me to understand what happends and let me find anomalies in data. 
+Good Answer: The learner identified 'Descriptive Analytics' as the type of analysis that they are performing when they are analyzing historical credit card data to understand what a fraudulent transaction looks like.
 
