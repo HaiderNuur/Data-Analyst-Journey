@@ -200,4 +200,26 @@ Data Visualization Tools
 - Microsoft Power BI
 - Looker
 
+# Week 5
+##### Career opportunities
+Data Analyst focusing technical and functional aspects:
+- Associate Data analyst (level 1)
+- Data ANalyst
+- Senior Data Analyst
+- Lead Analyst
+- Principle Analyst (highest level)
+
+Domain Specilist Roles
+- HR analyst
+- Marketing analyst
+- Sales analyst
+- health analyst
+- social media analyst
+
+Analytics enabled job roles:
+- Project managers
+- Marketing managers
+- HR manager
+
+
 
