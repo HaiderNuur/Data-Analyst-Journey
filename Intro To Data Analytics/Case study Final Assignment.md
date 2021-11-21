@@ -44,6 +44,7 @@ Answer: IP address, user ID, Account number, Shipping address, Transaction date,
 ![MNep_ZY-ScaXqf2WPrnG0Q_3be5abeee8944747ab0a58a705df415c_DA_1-Q7-Data-Table](https://user-images.githubusercontent.com/20629270/142776799-299528ed-8a24-4c59-a938-2572d98871fb.png)
 
 Answer: 1. Two transaction ids are missing 2. one transaction value is missing 3. Age of the user ellend is missing
+
 Good Answer: Missing transaction value, Missing IP Address, Date format inconsistency
 
 #### Question 3: Refer to the data table below and identify 2 (two) anomalies or unexpected behaviors, that would lead you to believe the transaction may be suspect. (2 marks)
@@ -61,11 +62,13 @@ Good answer:
 #### Question 4: Briefly explain your key take-away from the provided data visualization chart. (1 mark)
 ![M1sTK7IQQAibEyuyEAAIBw_62598de906f0424494f10efc877a7c5c_DA_1-Q9-Chart](https://user-images.githubusercontent.com/20629270/142777044-652cce71-7bf0-499a-9e0e-a8d65af850d9.png)
 Answer: There is a high chance the ellend's 3rd transaction is fradulant and also the 3rd, 4th & 5th of johnp
+
 Good Answer: The visualization depicts the transaction values per transaction for all three users. The key take-away from this visualization is the sharp rise in the transaction values for users johnp and ellend, which may be indicative of an anomaly.  
 
 
 #### QUestion 5:Identify the type of analysis that you are performing when you are analyzing historical credit card data to understand what a fraudulent transaction looks like. 
 Hint: The four types of Analytics include: Descriptive, Diagnostic, Predictive, Prescriptive. (1 mark)
 Answer: it is a Descriptive technique, the data helped me to understand what happends and let me find anomalies in data. 
+
 Good Answer: The learner identified 'Descriptive Analytics' as the type of analysis that they are performing when they are analyzing historical credit card data to understand what a fraudulent transaction looks like.
 
