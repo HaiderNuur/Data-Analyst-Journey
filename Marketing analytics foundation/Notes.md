@@ -94,4 +94,23 @@ It’s a small part of the larger set, meant to represent the whole group.
 Information that a customer knowingly offered to a company or one of their partners
 - True or false: Third party data is just as good as first party data. False
 
+CMS = Content Management System
+
+Cookie: Website specific piece of formatted text stored in the browser. (Can think of it as browser memory). Cookie gives you locally relevant content,
+keep you signed on a website, adjust the content you see on a site based on your preferences
+
+First-party cookie: are the text files stored in your browser by the sites that you're actually visiting. For instance when you visit your favorite news site, they will store a text file in your browser that helps this new site to remember some of your preferences when you come back to that news site, your experience may be personalized on the basis of the information the site has stored in your browser by visiting your favorite news site.
+
+Third-party cookie: re text files stored in your browser by a third party with whom you don't have a direct relationship. In the case of your favorite news site, there may be an advertiser who stores some information in your browser while you visit a news site. The advertisers can do that because it has an ad showing on the news site you are visiting for that. Ad to load your browser interacts with the ad server and the ad server can send a cookie to your browser in that interaction but you did not intentionally seek out a relationship with that advertiser. Hence the cookie day store is considered a third party cookie. Third party cookies are used for tracking and advertising targeting purposes. Advertisers can use this third party cookie to build a user profile on you, tracking the different websites you visit and which ads you click. Thus getting a better understanding of your interests. That understanding will help them tailor ads to you. Since users have less control over 3rd party cookies and how they're used, they have raised privacy concerns.
+
+Challenges: People use multiple browsers, can be erased or blocked, don't work in  mobile apps.
+
+Tag/Pixel: Small piece of code of JS that instructs website to send information to a third party
+- A cookie lives in the browser, a pixel is code that is added to a website by the publisher of that website
+- Example: Google ANalytics, Facebook pixel, Google Ads
+
+- SDKs for Mobile Apps
+
+
+
 
