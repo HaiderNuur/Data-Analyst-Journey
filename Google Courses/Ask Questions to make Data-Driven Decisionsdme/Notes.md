@@ -94,6 +94,8 @@ Data analysts typically work with the six problem types:
       Using historical data about what happened in the past to understand how likely it is to happen again. 
 
 --------#-----×--------
+
+
 SMART questions: 
 
 Specific: 
