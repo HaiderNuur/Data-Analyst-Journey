@@ -111,6 +111,11 @@ Tag/Pixel: Small piece of code of JS that instructs website to send information 
 
 - SDKs for Mobile Apps
 
-
-
+###### Practice Quiz 
+1. A CMS allows a content publisher to - edit and update the content on a website easily 
+2. a web server logs generally includes what- unique identifier, time and date, IP address 
+3. a browser cookie is- website specific formatted text 
+4. the ways API can be used- An API can help to integrate PayPal to your website, 
+let users use their Google  id's to login your website, send data like online conversion to websites like Facebook 
+5. 
 
