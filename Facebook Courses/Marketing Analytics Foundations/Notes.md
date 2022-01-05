@@ -123,4 +123,22 @@ let users use their Google  id's to login your website, send data like online co
 - I would like to learn more about what content on my site is visited most by my users. Which section of the Google Analytics report could help me with that? 
 Answer: The "engagement" reports under the life cycle section
 
+###### Practice quiz
+- Which of the following questions can you answer with Facebook Ads Manager reports
+Answer: How many impressions did my advertising campaign on Facebook and Instagram have, How many of the desired actions did people take as a result of my ads on Facebook, How much did I spend on ads on Facebook over past month.
+- Imra at Calla & Ivy wants to understand the results of the advertising campaign she ran on Instagram to promote her flower subscription service. More specifically, she would like to know how much money she had to spend on ads on Facebook to get one subscription. What should Imra do? 
+Answer: Imra can use Facebook Ads Manager and look at the "Cost per result" data
+- Google Ads reports can be used to understand the results of advertising campaigns on Google. Which of the following is a specific report you can get in Google Ads that you won’t find in Facebook Ads Manager? Answer: The keyword results report
+
+
+##### Graded quiz
+- True or false: In a spreadsheet cell, you can only include numbers and letters. F
+- True or false: Spreadsheet calculations are limited to simple arithmetic. F
+- True or false: Data visualization requires a deep understanding of coding in Python. A: F
+- Google Analytics collects data from: (Choose all that apply) A: Apps, Sites
+- True or false: There is only a single web analytics tool available- Google Analytics A: F
+- CPC stands for what in marketing analytics? A: Cost per click
+- If you want to find data on retention rates in Google Analytics, you can look at... A: the life cycle section
+- Because Facebook Ads Manager looks at the success of specific ad campaigns, it can be particularly helpful when determining... A: ROAS
+
 
