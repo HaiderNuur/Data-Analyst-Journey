@@ -117,5 +117,10 @@ Tag/Pixel: Small piece of code of JS that instructs website to send information 
 3. a browser cookie is- website specific formatted text 
 4. the ways API can be used- An API can help to integrate PayPal to your website, 
 let users use their Google  id's to login your website, send data like online conversion to websites like Facebook 
-5. 
+
+
+# Week Three
+- I would like to learn more about what content on my site is visited most by my users. Which section of the Google Analytics report could help me with that? 
+Answer: The "engagement" reports under the life cycle section
+
 
