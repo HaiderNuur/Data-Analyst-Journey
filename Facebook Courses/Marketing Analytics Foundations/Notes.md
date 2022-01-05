@@ -142,3 +142,46 @@ Answer: Imra can use Facebook Ads Manager and look at the "Cost per result" data
 - Because Facebook Ads Manager looks at the success of specific ad campaigns, it can be particularly helpful when determining... A: ROAS
 
 
+# Week Four
+- Online Privacy Tools: Ad blockers, Cookie blockers, and VPNs
+- Cookie Blockers: Privacy badgers, Ghostery
+- A good way for a consumer to consumer to conntrol their private online data is 
+: A VPN, Turning off "Tracking" for all apps on their mobile devices, changing  the settings of their social media platforms
+
+###### Practice quiz
+- True or false, most online publishers don’t make any money from advertising and offer their content for free. : F
+- True or false, consumers generally prefer that the information advertisers use come from their browsing habits. : F
+- Ad Blockers are primarily used to what? : Stop an advertisement from showing
+- VPN stands for: Virtual Private Network
+- Privacy settings on your device let you (choose all that apply) : Edit or turn off location tracking, Limit the things specific apps or programs can control or access, Change the way a consumer is tracked online
+
+- Data-based advertising vs context-based advertising
+- Advertisers should provide: value, transparency, control
+- DAA: Digital Advertising Alliance
+- Advertising ecosystem has four groups: consumers, advertisers, publishers and partners, regulators and gatekeepers
+- Gatekeepers: Browsers and device platforms, governments, industry organisations
+- Advertising company example: OpenX
+- GDPR: General Data Protection Regulation
+- GDPR User data rights: Right to access, correct, erase Data and Data portability, additional data rights
+- GDPR companies' responsibility: responsible for protection, notification, limiting colletion, consent
+- CCPA: California Consumer Privacy Act
+- CCPA User Data rights: Right to know what information is collected, to know if their data is sold and to whom, and to opt out, right to access personal data, right to delete, right to freedom from discrimination
+- COPPA: Children's Online Privacy Protection Act
+- Digital Advertising Alliance
+This group is an independent non-profit organization that works to create and maintain privacy practices for relevant digital advertising. This organisation created "YourAdChoices" logo and functionality.
+
+YourAdChoices
+Clicking the logo on an ad allows consumers to learn more about the information an advertiser has access to and how it's being used.
+
+The DAA is made up of a number of industry groups and organisaions: The American Association of Advertising Agencies, The American Advertising Federation, The association of National Advertisers, The Interactive Advertising Bureau, Network Advertising Initiative
+
+##### Graded Quiz
+- Most free or discounted online content is supported by... : Online advertising
+- A tool that can be added to your browser to prevent a website or online server from storing information in your browser is called a… : Cookie blocker
+- On most devices, to change which apps or programs can track your physical location, you can... :  Adjust your device privacy settings
+- True or false: an advertisement for a running shoe on a running website is most likely a data-based advertisement : False
+- The advertising ecosystem includes: (Choose all that apply) : Consumers, publishers and partners, regulators and gatekeepers
+- True or false: The GDPR law that regulates the use of consumer data requires that consumers can ask to download the data that was collected about them by websites. True
+- The advertising industry self-regulates and sets standards internally. One of the most prominent industry groups working on these standards is...
+ : The Digital Advertising Alliance
+- There are a number of laws that governments around the world have put in place to protect consumers and their privacy. Some of the most prominent ones are: (Choose all that apply)
