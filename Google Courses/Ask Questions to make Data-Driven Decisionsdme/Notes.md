@@ -118,12 +118,19 @@ Time-bound
 
 ----------×---------- 
 
-Week two: data driven decisions 
-Qualitative data tools: 
-Focus groups,  social media text analysis, in-person interviews 
-Quantitative data tools:
-Structured interviews, surveys, polls 
+# Week two: data driven decisions 
+- Qualitative data tools: Focus groups,  social media text analysis, in-person interviews 
+- Quantitative data tools: Structured interviews, surveys, polls 
+- Metric: a single, quantifiable type of data that can be used for measurement. 
+- ROI or return on investment is a metrics that let a business know how an investment is doing. 
+- As a refresher, a dashboard is a single point of access for managing a business's information. It allows analysts to pull key information from data in a quick review by visualizing the data in a way that makes findings easy to understand. 
+- Three categories of Dashboards: Strategic, Operational, Analytical
+- Strategic: focuses on long term goals and strategies at the highest level of metrics
+- Operational: short-term performance tracking and intermediate goals
+- Analytical: consists of the datasets and the mathematics used in these sets
+- Similarities: Dashboards are visualizations: Visualizing data can be enormously useful for understanding and demonstrating what the data really means.  Dashboards identify metrics: Relevant metrics may help analysts assess company performance.
+- Some differences include the timeframe described in each dashboard.  The operational dashboard has a timeframe of days and weeks, while the strategic dashboard displays the entire year. The analytic dashboard skips a specific timeframe. Instead, it identifies and tracks the various KPIs that may be used to assess strategic and operational goals.
+- Dashboards can help companies perform many helpful tasks, such as: Track historical and current performance, Establish both long-term and/or short-term goals, Define key performance indicators or metrics, Identify potential issues or points of inefficiency.
+- While almost every company can benefit in some way from using a dashboard, larger companies and companies with a wider range of products or services will likely benefit more. Companies operating in volatile, or swiftly changing markets like marketing, sales, and tech also tend to more quickly gain insights and make data-informed decisions.
 
-Metric: a single, quantifiable type of data that can be used for measurement. 
 
-ROI or return on investment is a metrics that let a business know how an investment is doing. 
