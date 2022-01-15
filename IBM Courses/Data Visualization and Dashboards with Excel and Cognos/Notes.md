@@ -1,9 +1,6 @@
 # Week two
 - Data analysis dashboards provide key information in one place
-- Dashboards can provide user interaction capabilities e.g. filters, slicers, timelines and map charts
-- Dashboard users get consolidated and visualized insight into their most important business and KPIs
-- Dashboard users get a controllable self service BI interface
-- Dashboards are typically created in a data analysis application by using pivot tables and charts
+- Dashboards can provide user interaction capabilities e.g. filters, slicers, timelines and map charts, Dashboard users get consolidated and visualized insight into their most important business and KPIs and also get a controllable self service BI interface. Dashboards are typically created in a data analysis application by using pivot tables and charts
 - Pivot tables and charts could be created from a single data source or from multiple data sources
 - Dashboards in a data analysis app: offer insights into your data, can alert you to trends and patterns, provide an interactive experience using filters, are dynamically updated as data changes, provide a centralized consolidated view of business data.
 - it's useful in fiscal forecasting and reporting, project management, executive reporting, human resources, customer service, helpdesk issue tracking, healthcare monitoring, call center analytics, social media marketing and many more.
@@ -35,10 +32,16 @@ Histograms
 - look similiar to bar charts, but are very different
 - bar charts compare data, while histograms display data distribution
 
-- Filled Map charts: suitable for data which contains geographical regions like countries, states, or postal codes.
-- Sparklines: suitable for showing data trends, such as seasonal increase-decrease, economic cycles, share rate or price fluctuations
-- Waterfall chart type: used to show cumulative effect of a series of positive and negative values. suitable for data which represents inflows and outflows like financial data.
-- Funnel chart type: used to show progressively smaller stages in a process.
-- Stock chart type: used to show the trend of stock's performance over time.
-- Surface chart type: used to show trends in values across two dimensions in 3-D surface or 2-D conteur charts, suitable when categories and data series are both numeric.
-- Radar chart type: used to show values relative to a center point, and most suitable when categories are not directly comparable.
+Filled Map charts: suitable for data which contains geographical regions like countries, states, or postal codes.
+
+Sparklines: suitable for showing data trends, such as seasonal increase-decrease, economic cycles, share rate or price fluctuations
+
+Waterfall chart type: used to show cumulative effect of a series of positive and negative values. suitable for data which represents inflows and outflows like financial data.
+
+Funnel chart type: used to show progressively smaller stages in a process.
+
+Stock chart type: used to show the trend of stock's performance over time.
+
+Surface chart type: used to show trends in values across two dimensions in 3-D surface or 2-D conteur charts, suitable when categories and data series are both numeric.
+
+Radar chart type: used to show values relative to a center point, and most suitable when categories are not directly comparable.
