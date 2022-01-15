@@ -16,5 +16,15 @@
 - How does a pivot chart differ from a standard chart in Excel? > A pivot chart uses data from a pivot table 
 - What is the main difference between Area and Column charts? > A column chart uses vertical bars, and an area chart uses data points 
 
-
-
+# Week Two
+### Practice quiz
+- What are scatter charts commonly used for? > To compare statistical, scientific, and engineering data values 
+- When you are creating a sparklines visualization, which two methods can you use to specify where the sparklines should appear on a worksheet? (Select two answers)
+> On the worksheet select a cell and Excel will add the cell reference to the Location Range box for you, Enter the cell reference in the Location Range box.
+- What's one data type intended for waterfall charts? > Financial data
+### Graded quiz
+- What do treemaps use to represent hierarchical data categories? > Treemaps use color, size, and closeness of shapes.
+- Histograms can look like a bar chart, what’s the key difference? > Bar charts compare data and histograms display the distribution of data.
+- What kind of data works best with filled map charts?  > Data containing geographical regions 
+- What are sparklines typically used for? > To show data trends
+- Which of the following, do dashboards provide in a data analysis application? (Select all that apply) > 
