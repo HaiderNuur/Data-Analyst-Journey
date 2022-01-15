@@ -17,3 +17,28 @@ Before creating a Dashboard
 - create pivot tables
 - create several visualizations to populate your dashboard with (charts, maps, slicers etc)
 
+Treemaps
+- compare values acroos hierarchy levels
+- show proportions as rectangles
+- good way to display lots of data in one graphic
+- color, size, and closeness of shapes represents hierarchical data categories
+
+Scatter charts
+- compare two sets of numerical data values
+- show relationships between them
+- combine two sets of "x" and "y" axis values into single data points
+- displayed in clusters
+- commonly used to compare statistical, scientific and engineering data values. 
+
+Histograms
+- show distribution of data grouped into "bins"
+- look similiar to bar charts, but are very different
+- bar charts compare data, while histograms display data distribution
+
+- Filled Map charts: suitable for data which contains geographical regions like countries, states, or postal codes.
+- Sparklines: suitable for showing data trends, such as seasonal increase-decrease, economic cycles, share rate or price fluctuations
+- Waterfall chart type: used to show cumulative effect of a series of positive and negative values. suitable for data which represents inflows and outflows like financial data.
+- Funnel chart type: used to show progressively smaller stages in a process.
+- Stock chart type: used to show the trend of stock's performance over time.
+- Surface chart type: used to show trends in values across two dimensions in 3-D surface or 2-D conteur charts, suitable when categories and data series are both numeric.
+- Radar chart type: used to show values relative to a center point, and most suitable when categories are not directly comparable.
