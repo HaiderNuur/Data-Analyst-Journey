@@ -51,6 +51,21 @@ Answer: Create a statistical model to make predictions about our data
 
 
 
+# Week two
+### Graded Quiz: Loading and Running a Python Program
+- Which of the following data types store tabular data? Choose all that apply. > CSV, XLSX
+- Which of the following data types typically have delimited data? Select all that apply. > CSV, TXT
+- Logical thinking is a skill that must be practiced like any other. True or False? > true
+- It is important to memorize all of the syntax and every function. True or False? > False
+- Which of the following describes Python? Check all that apply. > Object-oriented, general purpose, open-source
+- Python is only used for data analytics. True or False? > False
+- When writing code in a Jupyter notebook, you should write all of your code in one cell. > False
+- Sometimes you need a little help while writing code in a Jupyter notebook. You can use a question mark before or after a function and then execute the cell to learn more about the function. > True
+- Json files are structured in a nested structure. True or False? > True
+- When writing code in a Jupyter notebook, you should separate your code into different cells so there is only one line per cell. > False
+
+
+
 
 
 
