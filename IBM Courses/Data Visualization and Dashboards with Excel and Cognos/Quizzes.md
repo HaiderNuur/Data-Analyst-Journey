@@ -28,3 +28,18 @@
 - What kind of data works best with filled map charts?  > Data containing geographical regions 
 - What are sparklines typically used for? > To show data trends
 - Which of the following, do dashboards provide in a data analysis application? (Select all that apply) > 
+
+# Week Three
+### Practice quiz
+- Which URL do you navigate to, in order to sign up for a trial of Cognos Analytics? > IBM.BIZ/TRY_COGNOS 
+- In Cognos Analytics, which are the two main navigational areas of the interface? > Left and top pane
+- What happens first when you use the Cognos Assistant to help create a dashboard? > You can either ask a question directly or ask the Assistant to suggest some questions to ask.
+- What are the two ways to create calculations in Cognos Analytics? (Select two answers) > Start typing in the Expression box, Select operators and functions from the left pane.
+
+### Graded quiz
+- When signing up for a trial of Cognos Analytics, which item in the account form is the key one to take note of? > Your closest data center 
+- In Cognos Analytics what is the first step to build a dashboard? > Upload a spreadsheet or workbook 
+- Which of the following methods can be used in Cognos Analytics to create visualizations? (Select all that apply)
+> By manually populating by dragging and dropping, By using the Assistant to suggest questions and suggested visualizations, By automatic recommended visualizations.
+- How can you create infographics in Cognos Analytics? > Drag and drop a widget shape icon onto a visualization.
+
