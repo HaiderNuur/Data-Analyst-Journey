@@ -68,7 +68,12 @@ Answer: Create a statistical model to make predictions about our data
 
 
 
-
+# Week Three
+### practice quiz: finding and removing duplicate records : (using) Pandas
+- Given that you have a Pandas DataFrame `df`, how would you export the DataFrame to the CSV file “my_data.csv”?
+> df.to_csv(“my_data.csv”)
+- What code would get you just the data for `Column 2`? > df["Column 2"]
+- What code would get you how many rows and columns are in a DataFrame `df`? > df.shape
 
 
 
