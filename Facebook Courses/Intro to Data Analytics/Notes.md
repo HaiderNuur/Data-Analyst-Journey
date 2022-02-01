@@ -73,3 +73,61 @@ Questions to ask at this stage
 - what are the most compelling ways to present the data?
 - what is the overall story you want to tell?
 
+
+# Week Two
+week 2 was all about python basics.
+
+# Week three
+first parts were about SQL basics
+
+### 3rd part: Pandas
+Some useful code snippets:
+- df = pd.read_csv('customers.csv')
+- df
+- df.head()
+- df.tail()
+- df.head(23)
+- df.to_csv('output.csv')
+- new_df = pd.read_csv('output.csv')
+- new_df.head()
+- new_df = pd.read_csv('output.csv', index_col=0)
+- df.to_csv('new_output.csv', index = False)
+- pd.read_csv('new_output.csv')
+- df.shape (returns the no of rows and columns)
+- df.columns (returns a list of the Dataframe's columns)
+- df.info (returns information regarding all of the columns, including the no of missing (null))
+- df.describe() returns statistics about each of the columns
+- df["ColumnName"] select a column or columns
+
+Filtering:
+- mask_uses_credit_card = df['PaymentMethod'] == 'Credit Card'
+- mask_uses_credit_card
+- df[df['PaymentMethod'] == 'Credit Card']
+- mask_has_card = df['PaymentMethod'].str.contains('Card')
+- df[mask_has_card]
+- mask_payment_starts_with_c = df['PaymentMethod'].str.startswith('C')
+- mask_payment_starts_with_c
+- df[mask_payment_starts_with_c]
+- mask_dsl = df['InternetService'] == 'DSL'
+- mask_year_or_more = df['Tenure'] >= 12
+- df[mask_dsl & mask_year_or_more]
+- mask_uses_checks = df['PaymentMethod'] == 'Check'
+- df[mask_dsl | mask_uses_checks]
+
+
+- duplicated() : finds duplicate records in a df
+- df.duplicated()
+- ~ df.duplicated() [swap the results of each record, true making false]
+- mask = ~ df.duplicated()
+- df[mask] 
+- df_dedup = df[mask]
+- df_dedup.head
+- mask = ~ df_dedup.duplicated(subset=['user_id', 'purchase_id'])
+- df_clean = df_dedup[mask]
+- df_clean
+
+* df.duplicated(keep='last')
+* df.duplicated(keep=false)
+
+
+
