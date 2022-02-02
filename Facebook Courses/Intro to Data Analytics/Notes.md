@@ -130,4 +130,34 @@ Filtering:
 * df.duplicated(keep=false)
 
 
+- drop the duplicated records and assign the output DataFrame to a new variable called df_cleaned.
+> df_cleaned = df[~ df.duplicated()]
 
+- Fix the inconsistencies in the column cust_state [unique column]
+> df_cleaned['cust_state'].unique()
+
+- validate the prices in prod_price. remove any rows that are obviously wrong.
+# check the max and min and mean
+df_cleaned.prod_price.min()
+df_cleaned.prod_price.max()
+# then set the range upto 1000
+df_num_fixed = df_cleaned[~(df_cleaned['prod_price'] >= 1000) 
+
+- how many missing values are there?
+> num_nans = df_cleaned.isnull().sum()
+
+- drop any columns with missing values
+df_cleaned.dropna(axis = 1)
+
+
+- df.groupby('subscriptionTier')['totalCost'].mean()
+- df.groupby('subscriptionTier')['totalCost'].agg(['mean', 'min', 'max', 'count'])
+- df.groupby('subscriptionTier')[['totalCost', 'price']].agg(['mean', 'min', 'max', 'count'])
+
+
+- value_counts() : returns the count of unique values for a column
+- df['subscriptionTier'].value_counts()
+- df['subscriptionTier'].value_counts(normalize=True)
+- df['monthlyBasePrice'].quantile(0.75) **
+- df['monthlyBasePrice'].quantile(1) (or max)
+- df['monthlyBasePrice'].quantile(0) (or min) 
