@@ -75,5 +75,55 @@ Answer: Create a statistical model to make predictions about our data
 - What code would get you just the data for `Column 2`? > df["Column 2"]
 - What code would get you how many rows and columns are in a DataFrame `df`? > df.shape
 
+## Graded quiz: Pandas and SQL
+Question 1: Say I have the given data loaded as a DataFrame `df` using Pandas. We know that the `customerID` column has a unique value (representing a different customer).
+https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/fjsFo2qfTFS7BaNqnzxU1Q_b3dee44de7d74b7ba148bf7de227b1f1_Pandas-and-SQL-Quiz-Table.png?expiry=1643932800000&hmac=ubziw1clhJ9QztsYVCPGqO_qmaBLHRlGK80VN9RDlQE 
+What code would I write to find out how many customers there are that have the security add on?
+
+Answer: df.groupby(‘addOn_security’)[‘customerID’].count()
+
+Question 2: 
+What code would I write to find out how many customers have the security add on?
+
+Answer: df[‘addOn_security’].value_counts()
+
+Question 3: How would you interpret this output?
+df[ 'totalCosts' ].quantile(0.8)
+8.99
+
+Answer: 80% of the data has a value of 8.99 or less for the totalCost column
+
+Question 4: What code would you write to get just the single column `industry`?
+
+Answer: df[‘industry’]
+
+Question 5: You can find the list of columns with `df.columns()`
+
+Answer: False
+
+Question 6: What code would you write to get all the rows where `totalCost` is less than $6?
+
+Answer: df[ df[‘totalCost’] < 6.00 ]
+
+Question 7: What code would you write to get all the rows where `industry` starts with the letter “R”?
+
+Answer: df[ df[‘industry’].str.startswith(“R”) ]
+
+Question 8: Which code would you write to filter a DataFrame `df` so that you keep only the first instance of a duplicate?
+
+Answer: df[df.duplicated(keep=False) ]
+
+Question 9: What code would I write to find out how many customers there are in each subscription tier?
+
+Answer: df[‘subscriptionTier’].value_counts()
+
+
+
+
+
+
+
+
+
 
 
