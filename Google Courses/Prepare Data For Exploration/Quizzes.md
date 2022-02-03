@@ -63,3 +63,21 @@ Practice Quiz: Different data types, data formats and structures
 - Which of the following are qualities of unreliable data? Select all that apply. > biased, inaccurate
 - In data ethics, consent gives an individual the right to know the answers to which of the following questions? Select all that apply. > how will my data be used, why is my data being collected
  
+# Week Three
+
+### Quiz: metadata 
+- A large company has several data collections across its many departments. What kind of metadata indicates exactly how many collections a piece of data lives in? : structural 
+- The date and time a photo was taken is an example of which kind of metadata? : administrative 
+- A large metropolitan high school gives each of its students an ID number to differentiate them in its database. What kind of metadata are the ID : descriptive 
+- A company needs to merge third-party data with its own data. Which of the following actions will help make this process successful? Select all that : use the metadata to evaluate third party data quality and credibility, alter the company’s metadata to closely reflect the incoming metadata
+
+
+## Graded quiz
+- Primary and foreign keys are two connected identifiers within separate tables. These tables exist in what kind of database? A: Relational
+- Metadata is data about data. What kinds of information can metadata offer about a particular dataset? Select all that apply. A: If the data is clean and reliable, what kind of data it contains, Combine data from more than one source
+- Structural metadata indicates how a piece of data is organized and whether it’s part of one or more than one data collection. A: True
+- Fill in the blank: Data governance is the process of ensuring that a company’s _____ are managed in a formal manner. A: Data assets
+- A data analyst chooses not to use external data because it represents diverse perspectives. This is an appropriate decision when working with external data. A: False
+- A data analyst reviews a database of Wisconsin car sales to find the last car models sold in Milwaukee in 2019. How can they sort and filter the data to return the last five cars sold at the top of their list? Select all that apply. A: Filter out sales outside of Milwaukee, Filter out sales not in 2019, Sort by sale date in descending order
+- When writing a query, the name of the dataset can either be inside two backticks, or not, and the query will still run properly. A: True
+- 
