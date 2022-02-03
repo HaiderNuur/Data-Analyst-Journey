@@ -99,3 +99,7 @@ Public social-political datasets
 
 The Stanford Open Policing Project: This dataset can be downloaded as a .CSV file for your own use.
 
+# Week four
+## Feel confident in your data
+- Benefits of organizing data: makes it easier to find and use, helps you avoid making mistakes during your analysis, helps to protect your data
+- Best practices when organizing data: naming conventions, fordering, archiving older files
