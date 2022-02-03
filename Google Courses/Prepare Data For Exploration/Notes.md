@@ -55,3 +55,47 @@ Data privacy concerns the following:
 - Personal identifiable information (PII) is data that is reasonably likely to identify a person and make information known about them. It is important to keep this data safe. - - PII can include a person’s address, credit card information, social security number, medical records, and more.
 - Data anonymization is the process of protecting people's private or sensitive data by eliminating that kind of information. Typically, data anonymization involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. 
 - Here is a list of data that is often anonymized: Telephone numbers, Names, License plates and license numbers, Social security numbers, IP addresses, Medical records, Email addresses, Photographs, Account numbers.
+
+# Week three
+
+- Meta data: data about data 
+- A relational database is a database that contains a series of related tables that can be connected via their relationships.
+- Primary key: an identifier that references a column in which each value is unique , not null or blank 
+- Metadata is used in database management to help data analysts interpret the contents of data within a database 
+- 3 types of metadata: descriptive, structural and administrative 
+- Descriptive metadata: describes a piece of data and can be used to identify it at a later point of time.
+- Structural metadata: indicates how a piece of data is organised and whether it is part of one, or more than one data collection. 
+- Administrative metadata: indicates the technical source of a digital asset .
+
+Benefits of metadata: 
+- metadata creates a single source of truth by keeping things consistent and uniform. 
+- metadata also makes data more reliable by making sure it’s accurate, precise, relevant and timely. 
+
+Metadata repository: a database specifically created to store metadata. They describe the state and location of metadata, the structure of the tables inside, and how data flows through the repository, keep track of who accesses the data and when. 
+
+- Metadata is stored in a single, central location and it gives the company standardised information about all of its data. 
+- Data governance is a process to ensure the formal management of a company’s data assets.
+
+
+**Open data helps create a lot of public datasets that you can access to make data-driven decisions. Here are some resources you can use to start searching for public datasets on your own:
+
+- The Google Cloud Public Datasets allow data analysts access to high-demand public datasets, and make it easy to uncover insights in the cloud. 
+- The Dataset Search can help you find available datasets online with keyword searches. 
+- Kaggle has an Open Data search function that can help you find datasets to practice with.
+- Finally, BigQuery hosts 150+ public datasets you can access and use. 
+
+Public health datasets
+- Global Health Observatory data: You can search for datasets from this page or explore featured data collections from the World Health Organization.  
+- The Cancer Imaging Archive (TCIA) dataset: Just like the earlier dataset, this data is hosted by the Google Cloud Public Datasets and can be uploaded to BigQuery.
+- 1000 Genomes: This is another dataset from the Google Cloud Public resources that can be uploaded to BigQuery. 
+
+Public climate datasets
+- National Climatic Data Center: The NCDC Quick Links page has a selection of datasets you can explore. 
+- NOAA Public Dataset Gallery: The NOAA Public Dataset Gallery contains a searchable collection of public datasets.
+
+Public social-political datasets
+- UNICEF State of the World’s Children: This dataset from UNICEF includes a collection of tables that can be downloaded.
+- CPS Labor Force Statistics: This page contains links to several available datasets that you can explore.
+
+The Stanford Open Policing Project: This dataset can be downloaded as a .CSV file for your own use.
+
