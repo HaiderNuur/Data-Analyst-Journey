@@ -27,3 +27,7 @@
 - Correlation: measure of how related two variables are.
 - Correlation coefficient: a number that measures how related two variables are. formula: =CORREL(A:A, B:B)
 
+# Week Two
+### Sampling
+- Sample: Carefully selected subset of a a population meant to represent the group as a whole.
+- 
