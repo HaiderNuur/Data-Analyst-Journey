@@ -122,8 +122,26 @@ Answer: df[‘subscriptionTier’].value_counts()
 
 
 
+# Week Four
+### Practice Quiz: Chart Types and Basic Tableau Graphs
+- Which type of chart is usually best suited for visualizing the relationship of measurements to another ordered series of data, such as time?
+> A Line chart
+- True or false: The order in which you double-click a data field may affect the chart that Tableau generates?
+> True
+- True or false: Tableau can only connect to data from an Excel file or CSV file? > False
+- On the Tableau start page, which of the following connection types would you select if you want to connect to data in a CSV file?
+> Text file
+- True or false: If you change the name of a column in Tableau’s data preview pane, this will change the data in your Excel or CSV file.
+> False
+
+### Practice Quiz: Building Charts in Tableau II Practice
+- Of all the chart-making options we’ve covered, which of these is “easiest” (i.e., requires the least input from you)? > The “double-click” method.
+- True or False: you can use the “Show Me” tool even after you’ve created a chart using other methods? > True
+- In Tableau, for charts that are drawn on a pair of axes, how do you specify what data you want represented on the vertical axis (or Y-axis)? > By dragging the target data field from the Data Pane to the “Row Shelf.”
 
 
+
+- 
 
 
 
