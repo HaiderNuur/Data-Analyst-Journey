@@ -161,3 +161,15 @@ df_cleaned.dropna(axis = 1)
 - df['monthlyBasePrice'].quantile(0.75) **
 - df['monthlyBasePrice'].quantile(1) (or max)
 - df['monthlyBasePrice'].quantile(0) (or min) 
+
+# Week Four
+Data Visualization considerations:
+- choose the right type of chart, graph or diagram
+- focus on what's relevant
+- color choices: can have significant impact. 
+
+Color-related pitfalls:
+- using too much color
+- using familiar colors in unexpected ways
+- using distinct colors that are hard to distinguish
+- not making your visualizations accessible (colorblindness consideration)
