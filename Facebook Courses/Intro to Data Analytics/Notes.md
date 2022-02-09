@@ -173,3 +173,34 @@ Color-related pitfalls:
 - using familiar colors in unexpected ways
 - using distinct colors that are hard to distinguish
 - not making your visualizations accessible (colorblindness consideration)
+
+Crafting a story:
+- Narrative is combined with: explain, engage
+- Data is combined with: explain, enlighten
+- Visualization: engage, enlighten
+- a good story = narrative + data + visualization
+
+Freytag"s Pyramid and Data Stories
+- Introduction: Set-up/background:
+- Rising Action: Supporting Facts:
+- Climax: Main insight
+- Conclusion: next steps
+
+Set-up
+- Start with a hook: is there a sudden change?, are we missing an opportunity?, what should we expect going forward? etc.
+- Establish the theme of the story: 
+
+Build-up
+- Explain investigation steps
+- communicate intermediate findings
+- describe analysis
+* Key findings: the insight that has the greatest explanatory power
+
+Climax:
+- explain the root cause for the hook from the key findings
+* Engaged stateholders are the more likely to act on insights.
+
+Conclusion:
+- identify courses of action to remedy the issue
+- discuss the cause of the issue
+
