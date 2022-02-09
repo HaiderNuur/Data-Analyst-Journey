@@ -140,8 +140,23 @@ Answer: df[‘subscriptionTier’].value_counts()
 - In Tableau, for charts that are drawn on a pair of axes, how do you specify what data you want represented on the vertical axis (or Y-axis)? > By dragging the target data field from the Data Pane to the “Row Shelf.”
 
 
-
-- 
+## Graded Quiz
+- True or False: It’s important to craft a story for your audience so your audience has an easier time understanding complex information and process from your project.
+> True
+- True or False: When creating a story around your data for your audience, making the key takeaways clearly identified is one of the most important requirements.
+> True
+- True or False: When strengthening your story, you should include an explanation of the investigation steps and describe the analysis. 
+> True
+- Considering you have qualitative data, select all visualization types that usually do best for this kind of data. (Select all that apply)
+> Bar, pie chart
+- True or False: Using colors that are similar to one another in your visualization, such as differing shades of red in your pie chart, will help your audience concentrate harder on the story you’re telling. > False
+- True or False: You should avoid using built-in color palettes in visualization software. They’re only there for people who are too lazy to design their visualization from scratch. > False
+- Which parts of your story structure help engage the situation you are trying to describe?
+> Narrative and visualization
+- True or False: In discussing how to build a good and compelling story, the climax of the story is where we wrap up our story.
+> False
+- True or False: When creating a story around your data for your audience, making the story entertaining is one of the most important requirements.
+> False
 
 
 
