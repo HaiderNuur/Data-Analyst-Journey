@@ -34,3 +34,57 @@
 - What does a measure of variation tell you about a dataset? > I.  How spread out the data is, 
 - Which of the following is not how a marketer can use a measure of central tendency. > Predicting customer behavior
 
+# Week 2
+
+### Sampling
+= What is the difference between a population and a sample?
+> A population includes every individual in a group, while a sample is a subset of a population used to represent a group.
+- Which of the following are conclusions of the Central Limit Theorem?
+> I.	Large samples should have the same mean and standard deviation as the population., II.   Large samples normalize data.
+- True or false: When choosing a sample, size doesn't matter. > False
+- What does the plateau effect state? > That after a certain point, adding more data to the sample will not increase accuracy.
+- What type of sampling is illustrated in the following scenario?
+A pollster wants to gauge public support for a new initiative. He decides to phone every fourth person listed in the phone book.
+> systematic sampling
+= A company has worksites across the country. Each of the worksites has roughly the same number of employees in similar roles. The company wants to sample their workers, but they are unable to visit all sites to collect their data. How should they go about sampling their population of employees?
+> cluster sampling
+
+### Distributions
+- How can knowing the probability distribution of customer data help a marketer?
+> I.   It can be used to predict future customer behavior,  III. It can inform a marketer about customer preferences
+- How does data with a high variance affect the shape of a distribution?
+> The distribution will have a short, wide shape.
+- What does a narrow and tall distribution tell you about the variance of the underlying data?
+> That the dataset has low variance.
+- Which of the following is not a type of distribution discussed in the lesson? > Positive
+- True or false: The following are the four transformations discussed in the lesson: Cube Root, Square, Square Root, Logarithmic > True
+- What does kurtosis describe? > It describes how data may be pulled up or down relative to the normal distribution.
+- What does skew describe? > It describes how the data may be pulled to the left or the right.
+- True or false: Data transformations can be used to correct for both skew and kurtosis in the data.
+> False
+
+### Quantitative variable
+- What is a quantitative variable? > It is a variable that represents a numerical value that can be interpreted mathematically.
+- Quantitative variables can be broken down into two categories. What are they? > Discrete and continuous
+- There are two categories of qualitative variables. What are they? > Nominal and ordinal
+
+
+## Graded Quiz
+- In the context of the graph of a distribution, what is the difference between skew and kurtosis?
+>  Skew affects the lean of the graph. Kurtosis affects the height and width of the graph.
+- What sampling technique is depicted in this scenario?
+A university athletics department wants to assess the quality of life for its student athletes. There are 1000 student athletes at the school, with 60% male and 40% female. The department polls 100 athletes, choosing 60 male athletes and 40 female athletes. > stratified
+- True or false: Transformations cannot correct for kurtosis. > true
+- Which of the following is not an example of a quantitative variable? > A person's phone number.
+- Which of the following is not an example of a qualitative variable? > The square footage of a house
+- Which is a subtype of quantitative variables? > continuous
+- What are dependent variables? > They are variables that you measure in a test.
+- What is the uniform distribution? > A distribution in which all values have an equal chance of happening.
+
+
+
+
+
+
+
+
