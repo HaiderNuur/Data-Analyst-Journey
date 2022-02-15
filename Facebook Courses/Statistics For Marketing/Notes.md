@@ -44,7 +44,39 @@ Types of Probability Sampling
 - Systematic Sampling: used when you receive data in a series; select individuals for a sample at a regular interval
 - Stratified Sampling: makes sure the proportions of the sample are the same as the population; used when it is important to collect data on smaller groups as well as larger ones within a population
 - Cluster Sampling: used when the population is divided into equal subgroups; just need to break your population down into groups and choose a few groups at random.
+
+### Distributions
+- Distributions helps to better understand customer demographics and how to market them
+- A distribution is created from recorded data and used for the purpose of showing the probability of any possible outcome occuring within your data-set.
+- If you have a high variance, you will have short distribution
+- if you have a small variance, you will have a tall narrow distribution
+
+
+Common distributions
+- Normal or Gaussian distribution: shaped like a bell. Mean, Median and Mode are the same here. 
+- Uniform or rectangular distribution: happens when all elements have an equal chance of happening. 
+- Posson Distribution: it will tell you the probability of something happening based on the number of times that something else has happened. 
+- Exponential distribution: shape is a sharp curve. 
+
+Data Shape influences
+1. Skew: is when the distribution is leaning one way or the other. Positive skew: long tail on positive side, majority of the data will be on the left. For negative skew: scenario is opposite
+2. Kurtosis: is the data being pulled up or down. Positive kurtosis pulls the distribution up into a tall, narrow shape. Negative one flattens the curve out into a low, wide shape.  
+3. Transformations: are ways in which you can try to normalize your data or remove  a skew. they can't fix kurtosis at all (look for outliers in such cases). 
+
+
+There are four common transformations you can try when you have an obvious skew that needs to be corrected for. They are:
+
+- Logarithmic Transformation:  To find the logarithmic transformation for a numeric dataset, apply this formula to every value n in the set: =LOG10(n). You can then create a histogram for all these logarithmic values.
+- Cube Root Transformation: The formula for the cube root, in Excel and Google Sheets, is =n^(1/3). To find the cube root transformation, apply this cube root formula to every value n in your dataset and create a histogram for all these cube root values.
+- Square Root Transformation: Likewise, the formula for the square root is =SQRT(n). To find the square root transformation, apply the square root formula to every value n in your dataset and create a histogram for all these square root values.
+- Square Transformation: Finally, the formula for the square of a number is =n^2. To find the square transformation, apply the squaring formula to every value n in your dataset and create a histogram for all these squared values.
+
+### Variables
+- variables: a measurement or description of an object, person or place. 
+- Quantitative variables: sales, costs, revenue, clicks, conversion rate, bounce rate
+- Quantitative variables are of two types: continuous and discrete.
+- continuous var: value is obtained by measuring or calculating, can be whole numbers. Ex: customer lifetime value, conversion rate
+- discrete var: value is obtained by counting, ex: no of sales, clicks, subscribers.
+- Independant var: a variable that is controlled or changed in a test
+- Dependent var: a variable that is measured or counted in a test
 - 
-
-
-
