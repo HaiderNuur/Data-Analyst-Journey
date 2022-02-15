@@ -30,4 +30,21 @@
 # Week Two
 ### Sampling
 - Sample: Carefully selected subset of a a population meant to represent the group as a whole.
+
+Central limit theorem:
+1. Large samples should have the same mean and standard deviation as the population
+2. Large samples normalize data
+
+Types of Sampling Methods
+- Probability Sampling: randomized sample selection methods
+- Non-probability Sampling: sample selection methods without randomization; inaccurate.
+
+Types of Probability Sampling
+- Simple Random Sampling: Everyone in a population has an equal chance of being selected; most random sampling method; used for small populations.
+- Systematic Sampling: used when you receive data in a series; select individuals for a sample at a regular interval
+- Stratified Sampling: makes sure the proportions of the sample are the same as the population; used when it is important to collect data on smaller groups as well as larger ones within a population
+- Cluster Sampling: used when the population is divided into equal subgroups; just need to break your population down into groups and choose a few groups at random.
 - 
+
+
+
