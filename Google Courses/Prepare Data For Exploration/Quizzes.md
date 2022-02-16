@@ -80,4 +80,42 @@ Practice Quiz: Different data types, data formats and structures
 - A data analyst chooses not to use external data because it represents diverse perspectives. This is an appropriate decision when working with external data. A: False
 - A data analyst reviews a database of Wisconsin car sales to find the last car models sold in Milwaukee in 2019. How can they sort and filter the data to return the last five cars sold at the top of their list? Select all that apply. A: Filter out sales outside of Milwaukee, Filter out sales not in 2019, Sort by sale date in descending order
 - When writing a query, the name of the dataset can either be inside two backticks, or not, and the query will still run properly. A: True
-- 
+
+
+# Week Four
+### How to organize data
+- Data analysts use guidelines to describe a file’s version, content, and date created. What are these guidelines called? > Naming conventions
+- Data analysts use foldering to achieve what goals? Select all that apply.
+> To organize files into subfolders, To keep project-related files together
+- Fill in the blank: To separate current from past work and reduce clutter, data analysts create _____. This involves moving files from completed projects to a separate location.
+> archives
+- What is the process of structuring folders broadly at the top, then breaking down those folders into more specific topics? > creating a hierarchy
+- Successful file naming conventions include information that’s useful when trying to locate or update a file. Which of the following is an effective file name? > AirportCampaign_2013_10_09_V01
+
+### Securing your data
+- Fill in the blank: Data security involves using _____ to protect data from unauthorized access or corruption.
+> safety measures
+- When using data security measures, analysts can choose between protecting an entire spreadsheet or protecting certain cells within the spreadsheet. > True
+- What tools can data analysts use to control who can access or edit a spreadsheet? Select all that apply. > Encryption, sharing permissions
+
+## Weekly challenge
+- What aspects of a file do file-naming conventions typically describe? Select all that apply.
+> Creation date, version numbers, content
+- Fill in the blank: A data analytics team uses _____ to indicate consistent naming conventions for a project. This is an example of using data about data.
+> metadata
+- A data analyst creates a file that lists people who donated to their organization’s fund drive. An effective name for the file is FundDriveDonors_20210216_V01. 
+> True
+- What process do data analysts use to keep project-related files together and organize them into subfolders?
+> Foldering
+- Data analysts use archiving to copy and keep backups of important files. These backups are used if original files are lost.
+> False
+- Data analysts create hierarchies to organize their folders. How are folder hierarchies structured?
+> Broad topics at the top, then more specific topics below
+- A data analyst adds sharing permissions to limit who can edit the data contained within a file. This is an example of what?
+> Data security
+- To reduce clutter, a data analyst hides cells that contain long, complex formulas. To view the formulas again, the analyst will need to adjust the spreadsheet sharing or encryption settings.
+> False
+- Foldering may be used by data analysts to organize folders into what? > Subfolders
+
+# Week 5
+successfully done all the quizzes :)
