@@ -102,4 +102,21 @@ The Stanford Open Policing Project: This dataset can be downloaded as a .CSV fil
 # Week four
 ## Feel confident in your data
 - Benefits of organizing data: makes it easier to find and use, helps you avoid making mistakes during your analysis, helps to protect your data
-- Best practices when organizing data: naming conventions, fordering, archiving older files
+- Best practices when organizing data: naming conventions, foldering, archiving older files
+- Two more things: align your naming and storage practices with your team, develop metadata pracctices
+
+File naming DO's
+- work out your conventions early
+- align file naming with your team
+- make sure file names are meaningful
+- keep file names short and sweet
+- Format dates yyyymmdd: SalesReport20201125
+- Lead revision numbers with 0: SalesReport20211201v02
+- Use hyphens, underscores, or capitalized letters: Sales_Report_2020_11_22_v02
+
+### Security features in spreadsheets
+- Data security: Protecting data from unauthorized access or corruption by adopting safety measures
+- Usually the purpose of data security is to keep unauthorized users from accessing or viewing sensitive data. Data analysts have to find a way to balance data security with their actual analysis needs. This can be tricky-- we want to keep our data safe and secure, but we also want to use it as soon as possible so that we can make meaningful and timely observations. 
+- Encryption uses a unique algorithm to alter data and make it unusable by users and applications that don’t know the algorithm. This algorithm is saved as a “key” which can be used to reverse the encryption; so if you have the key, you can still use the data in its original form.  
+- Tokenization replaces the data elements you want to protect with randomly generated data referred to as a “token.” The original data is stored in a separate location and mapped to the tokens. To access the complete original data, the user or application needs to have permission to use the tokenized data and the token mapping. This means that even if the tokenized data is hacked, the original data is still safe and secure in a separate location. 
+- 
