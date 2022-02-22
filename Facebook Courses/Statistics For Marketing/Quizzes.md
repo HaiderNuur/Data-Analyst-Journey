@@ -83,6 +83,15 @@ A university athletics department wants to assess the quality of life for its st
 
 
 
+# Week three
+### Hypothesis and AB testing
+- What is AB testing? > A study that compares two different versions of something to see which performs better.
+- When performing AB testing, the alternate hypothesis H1 makes what claim?
+> That there is a significant difference in the effect between A and B.
+- In general, what do you conclude for a p-value where p < 0.05?
+> Reject H0, accept H1.
+- What does a 95% confidence interval represent?
+> The range of values within which you may be 95% sure that the true mean falls.
 
 
 
