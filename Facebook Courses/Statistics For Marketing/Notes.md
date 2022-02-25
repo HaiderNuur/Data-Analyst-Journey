@@ -141,7 +141,76 @@ Types of Bias:
 - Selection bias: if you select a sample that no longer represents the population
 
 
-- 
+# Week Four
+- Statistical analysis: Method of analyzing a dataset in order to produce results and insights.
+- Statistical modeling: The act of applying a statistical analysis to a dataset
+- Statiscal model: result (number or visualization) of modeling, a mathematical representation of data. For example, if you used regression analysis for your modeling, you could call the results a regression model.
+- Data modeling is useful in marketing analytics because: you can predict the number of clicks you will get from an advertising campaign based on how much you spent on it, you can predict how much you will sell next year, you can segment your market to better understand the needs of specific parts of your customer base.
+- Simple Linear Regression: a versatile tool that measures the relationships between variables. In marketing analytics, it is used as a predictive model.
+- Cluster analysis: used for market segmentation
+- Time series analysis: forecast or predict what will happen in the future
+- Regression model: compares the relationship between two variables, then uses one to predict the other. Scenarios to use: If i use this much money for advertising, then how much can i expect to earn? 
+- Classification model: predicts categorical variables. Uses: we have specific information about a customer, are they likely to sign up for our subscription service? 
+-  Cluster model: identifies groups or segments of an audience. Uses: what specific demographics groups make up my customer base?
+-  Time series model: forecasts outcomes or behavior based on past data. uses: Will online sales increase on holidays?
+-  Supervised Machine Learning: performed on labeled data-sets which is used to train or teach the computer what each variable is. It can then predict the outcome of new information. Ex: Regression, classification. 
+-  Unsupervised ML: Clustering
+
+### Classification models
+- Regression analysis: predicts a dependent variable given an independent variable by creating a line.
+- Simple linear regression (SLR): a type of regression analysis with only one dependent variable and one independent variable. Put independent variable on X-axis and dependent on Y-axis.
+- Residual: Difference between data point (actual point) and the line (expected value)
+- r"2 (square): amount of variance explained by variable.
+- Classification model: uses one or more variables to predict a categorical or discrete dependent variable.
+- Regression vs Classification models: both use independent variabl to predict dependent variable, but main diff is a regression model predicts a continuous (quantitative) variable and a classification model predicts a categorical (qualitative) variable.
+- Popular Classification models: K-nearest neighbors, randorm forest, logistic or binary regression, naive bayes, support vector machine
+- Uses for Classification Analyses: Churn (know how many customers are leaving and newly growing), Risk Identification (predicting who might leave), Opportunity Identification (who might pay more)
+
+### Cluster analysis
+- Market Segmentation: Breaking down a customer base into smaller groups with common interests or desires to better target advertising campaigns.
+- Popular Clustering methods: K-means, Hierarchical, Fuzzy C-means, Mean Shift, Density-based-spatial
+- Assumptions: Minimum sample size: 50 x number of groups (k), Sphericity (the groups will appear roughly around when you plot out your data points), Homogeniety of variance, equal prior probability
+
+### Time series 
+- Time series analysis: looks at how quantitative variables change over time, often to forecast future value.
+- Time variable: Days, Weeks, Months, Years, Quarters.
+- Months to years possible, not other way
+
+Assumptions for time series
+-  Minimum Sample size: Days: 700, Weeks: 100, Months: 50, Quarter: 40, Years: 12
+-  Dependence: all of the observations should come from same place and you're just recording the new values over time.
+-  Stationarity: the mean value of this series should not change over time or should stay stationary.
+
+### Choosing a model
+Determining Which Model to Use
+1. Identify variables: this included not only which variables will be in your model but also what type of variables they are.
+2. Identify purpose: Review evaluation question and identify what you actually want as a result
+
+Simple Linear Regression
+- Identify variable: Independent variable (quantitative), dependent variable (quantitative)
+- Purpose: predict the dependent variable using the independent variable
+- Example: if increasing your social media posts resulted in more conversions
+
+Classification analysis:
+- variable: independent variable is quantitative, dependent is qualitative
+- purpose: predict dependent variable given a specific value of the independent variable
+- example: what type of products customers purchased more frequently 
+
+Cluster analysis:
+- variable: independent variable is quantitative, dependent variable is quantitative.
+- purpose: subsetting data, can also be called segmentation or creating a sub group
+- example: how different audiences respond to the same ad.
+
+Time series analysis:
+- variable: independent variable is always Time, dependent variable is quantitative
+- purpose: Forcasting, or predicting a value of the dependent variable at some time in the future.
+- example: to understand how your social media followers have grown over time.
+
+
+
+
+
+
 
 
 
