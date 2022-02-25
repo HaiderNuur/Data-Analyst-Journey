@@ -96,4 +96,77 @@ A university athletics department wants to assess the quality of life for its st
 
 
 
+# Week Four
+### Statistical modeling
+- What is statistical analysis? > field of study based around the use of data, equations used to analyze data, processes used to analyze data.
+- what is statistical modeling?
+> the application of a statistical analysis to data.
+- what is statistical model?
+> The results of statistical modeling
+- True or false: Cluster analysis is used to subdivide the data into smaller and more similar groups.
+> True
+- Regression and classification models fall under which type
 
+### Simple Linear Regression
+- In simple linear regression, what does the word "linear" mean? 
+> That a line is used to relate the independent and dependent variables.
+- What does the r2 in a linear regression mean?
+> It is a measure of how much of the variance is explained by the independent variable.
+- What is the residual?
+> It is the difference between the recorded data value and the predicted data value.
+- Which of the following is one of the assumptions in simple linear regression?
+> Linearity
+- Regression and classification models are similar in that they both: 
+> Use independent variables to predict dependent variables.
+- Naive bayes is not a type of classification model
+> False
+
+### Cluster analysis
+- How is clustering analysis useful to a marketing analyst?
+> It facilitates market segmentation
+- What is market segmentation?
+> It is the process of creating sub-groups in a customer base using common traits or needs
+- What clustering method is often considered the default method?
+> k-means
+- what is the assumption of homogeneity of variance in K-means clustering?
+> That all the variables in the analysis have similar variance.
+
+### Time Series
+- What does a time series analysis do?
+> It evaluates a quantitative variable to see how it changes in time.
+- What is the purpose, or most common use, for time series analysis?
+> To predict, or forecast, future values of the dependent variable.
+- What are three assumptions in time series analysis?
+> Dependence, Stationarity, Minimum Sample size
+- In time series, the minimum sample size depends on the time units being used.
+> True
+
+### Marketing analysis case studies
+- If the Calla and Ivy ad received 5000 impressions, how many times will it be clicked? what type of model will best answer this question?
+> Simple Linear Regression
+- How many sales can Carlos from Inu+Neko expect to receive from emailed ads next year? What type of model will ....
+> Time series
+- What type of model will help Paula forecast customer spending based on how long they have been customers?
+- Time series
+
+## Graded exam
+- Consider the assumptions in simple linear regression. What is the assumption of minimum sample size?
+> The minimum sample is 20
+- Which one of the following is NOT a modeling technique in clustering analysis?
+> General linear models
+- In time series analysis, two of the three assumptions are minimum sample size and stationarity. What is the third?
+> dependence
+- In time series analysis, you can convert shorter time units into longer time units.
+> True
+- What is a regression model?
+> A model that predicts a quantitative variable
+- What is the assumption of sphericity for K-means clustering?
+> That the clusters are approximately elliptical or round
+- In time series there are three assumptions: minimum sample size, dependence, and:
+> Stationarity
+- In time series analysis, what is the assumed minimum sample size if time is measured in quarters?
+> 40 quarters of information
+- Which of the following is an assumption in simple linear regression?
+> independence
+- Quantitative variables consist of two types. What are they?
+> continuous and discrete
