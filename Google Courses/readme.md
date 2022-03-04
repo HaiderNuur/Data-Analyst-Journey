@@ -17,6 +17,12 @@ Topics Learnt
 - Data types: Nominal, ordinal, quantitative, qualitative etc. 
 - Terms: Data modeling and its types, ERD, UML, Bias and its types, data privacy concerns. 
 - Meta data, open data sources, Basics of Databases
-- (*Week 5) Tips to Join Data Join Community
+- (*Week 5*) Tips to Join Data Join Community
 ### Tools used: BigQuery, Excel 
 # Course 4: Process Data From Dity to Clean
+Topics Learnt
+- Ensuring Data integrity
+- Understanding clean data
+- Cleaning Data using SQL
+- Verifying and Reporting cleaning results
+# Tools Uses: 
