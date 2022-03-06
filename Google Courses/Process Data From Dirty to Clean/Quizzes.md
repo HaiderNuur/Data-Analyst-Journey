@@ -52,3 +52,24 @@ Rows 10 and 11 contain duplicate data.
 > Maintaining data integrity
 - What is one potential problem associated with data manipulation that analysts must be aware of?
 > Data manipulation can introduce errors.
+
+# Week Two
+### Clean vs Dirty Data
+- Difference between a null and a zero in a dataset: 
+> A null indicates that a value does not exist, A zero is a numerical response.
+- What are the most common processes and procedures handled by data engineers? Select all that apply
+> Developing, maintaining and testing databases and related systems, Transforming data into a useful format for analysis, giving data a reliable infrastructure
+- What are the most common processes and procedures handled by data warehousing specialists? Select all that apply.
+> Ensuing data is secure, ensuring data is backed up to prevent loss, ensuring data is available
+- A data analyst is cleaning a dataset. They want to confirm that users entered five-digit zip codes correctly by checking the data in a certain spreadsheet column. What would be most helpful as the next step.
+> Use the field length tool to specify the no of characters in each cell in the column
+
+### Data Cleaning Techniques
+- Fill in the blank: Every database has its own formatting, which can cause the data to seem inconsistent. Data analysts use the _____ tool to create a clean and consistent visual appearance for their spreadsheets.
+> Clear format
+- What is the process of combining two or more datasets into a single dataset?
+> Data merging 
+- Fill in the blank: In data analytics, _____ describes how well two or more datasets are able to work together.
+> Compatibility
+
+
