@@ -71,5 +71,18 @@ Rows 10 and 11 contain duplicate data.
 > Data merging 
 - Fill in the blank: In data analytics, _____ describes how well two or more datasets are able to work together.
 > Compatibility
+- Describe the relationship between a text string and a substring.
+> A text string is a group of characters within a cell. A substring is a smaller subset of that text string. 
 
+# Weekly Challenge
+- Conditional formatting is a spreadsheet tool that changes how cells appear when values meet a specific condition. Data analysts can use conditional formatting to do which of the following tasks? Select all that apply. 
+> To identify blank cells or missing information, To make cells stand out for more efficient analysis, 
+- A delimiter is a character that indicates the beginning or end of a data item. The split text to columns tool uses a delimiter to accomplish what task?
+> 
+- For a function to work properly, data analysts must follow each function’s predetermined structure. What is this structure called?
+> Syntax
+- A data analyst wants to search for a certain value in a column, then return a corresponding piece of information. Which function should they use?
+> VLookup
+- Fill in the blank: Data mapping is the process of _____ fields from one data source to another.
+> matching
 
