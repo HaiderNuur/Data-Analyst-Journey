@@ -112,4 +112,8 @@ Refer to these "top ten" lists for data cleaning in Microsoft Excel and Google S
 - Conditional formatting is a spreadsheet tool that changes how cells appear when values meet specific conditions.
 - Hands on videos on: Conditional formatting, fixing missing values, formats, uses of left, right, trim, concat, countif and so on
 - *Workflow automation* : https://www.coursera.org/learn/process-data/supplement/QRQsR/workflow-automation
+- *Very Important Different Data Perspective, VLOOKUP and Plotting* https://www.coursera.org/learn/process-data/lecture/BcY0L/different-data-perspectives
+- Data mapping: is the process of matching fields from one data source to another
+- Schema: a way of describing how something is organized
+- Even more data-cleaning techniques: https://www.coursera.org/learn/process-data/lecture/Ei2IH/even-more-data-cleaning-techniques
 - 
