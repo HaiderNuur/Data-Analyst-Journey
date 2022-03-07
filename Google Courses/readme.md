@@ -25,4 +25,12 @@ Topics Learnt
 - Understanding clean data
 - Cleaning Data using SQL
 - Verifying and Reporting cleaning results
-# Tools Uses: 
+### Tools Used: Spreadsheets, BigQuery (SQL)
+
+# Course 5: Analyze Data to answer Questions
+Topics Learnt
+- Organising Data to begin analysis (with sorting and filtering)
+- Formatting and adjusting your data
+- Aggregate data for analysis
+- performing data calculations
+### Tools Used: Spreadsheets, BigQuery (SQL)
