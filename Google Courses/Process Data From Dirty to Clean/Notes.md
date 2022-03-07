@@ -125,5 +125,27 @@ SQL learn topics
 - Manipulating string data with TRIM() and SUBSTR.
 - Creating/dropping tables with CREATE TABLE and DROP TABLE.
 - Changing data types with CAST.
+*** *Cleaning videos of this week are really important*
+
+# Week 4
+- Verification is a process to confirm that a data-cleaning effort was well-executed and the resulting data is accurate and reliable. It involves rechecking your clean dataset, doing some manual clean ups if needed. and taking a moment to sit back and really think of original purpose of the project.
+- Changelog: A file containing a chronologically ordered list of modifications made to a project, really important to know how a dataset evolved over the course of a project.
+
+Steps in verification process
+- revisit the dirty data and compare the difference with new one, try to find a common problem and check if it's sorted in cleaned data
+- Taking a big picture view of your project. 3 things to consider: consider the business problem, goal of the project, consider the data (where the data came from)
+- Checklist for Data-cleaning Verification: https://www.coursera.org/learn/process-data/supplement/c9vis/data-cleaning-verification-a-checklist
+- A data analyst is cleaning a dataset with inconsistent formats and repeated cases. They use the TRIM function to remove extra spaces from string variables. What other tools can they use for data cleaning? Select all that apply.
+- Documentation: The process of tracking changes, additions, deletions, and errors involved in your data-cleaning effort
+- 3 important things/advantages to record/documentation: let us recover data-cleaning errors, inform other users of changes, determine quality of data
+- Google Sheet > File > Version History to see all the previous versions
+- Big Query > Query History
+- ECOs: Engineering Change Orders
+**Embrace Changelogs: https://www.coursera.org/learn/process-data/supplement/FvuSF/embrace-changelogs**
+**Why documentation is important: https://www.coursera.org/learn/process-data/lecture/TvyoD/why-documentation-is-important**
+**Feedback and cleaning https://www.coursera.org/learn/process-data/lecture/k3c6N/feedback-and-cleaning**
+**Advanced functions to clean data: https://www.coursera.org/learn/process-data/supplement/PLnRS/advanced-functions-for-speedy-data-cleaning**
+
+# Week 5: Resume Building Very Very Very Very Important - come back often here
 
 
