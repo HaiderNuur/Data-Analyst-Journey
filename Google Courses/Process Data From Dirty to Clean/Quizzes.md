@@ -108,4 +108,48 @@ Rows 10 and 11 contain duplicate data.
 > CAST
 - What SQL function lets you add strings together to create new text strings that can be used as unique keys? 
 > concat
-- 
+
+# Week 4
+### Manual Data Cleaning
+- Making sure data is properly verified is an important part of the data-cleaning process. Which of the following tasks are involved in this verification? Select all that apply. 
+> Rechecking the data-cleaning effort, Manually fixing any errors found in the data, Considering whether the data is credible and appropriate for the project
+- Fill in the blank: To count the total number of spreadsheet values within a specified range, a data analyst uses the _____ function.
+> COUNTA
+- A data analyst is cleaning a dataset with inconsistent formats and repeated cases. They use the TRIM function to remove extra spaces from string variables. What other tools can they use for data cleaning? Select all that apply.
+> Find and replace, remove duplicates
+- To correct a typo in a database column, where should you insert a CASE statement in a query? 
+> As a SELECT clause
+
+### documenting the cleaning process
+- Why is it important for a data analyst to document the evolution of a dataset? Select all that apply.
+> To inform other users of changes, To inform other users of changes, To determine the quality of the data
+- Fill in the blank: While cleaning data, documentation is used to track _____. Select all that apply.
+> Changes, Errors, deletions
+- Documenting data-cleaning makes it possible to achieve what goals? Select all that apply.
+> Keep team members on the same page, Be transparent about your process, Demonstrate to project stakeholders that you are accountable
+
+## Weekly Change
+- The data collected for an analysis project has just been cleaned. What are the next steps for a data analyst? Select all that apply.
+> Verification, reporting
+- A data analyst is in the verification step. They consider the business problem, the goal, and the data involved in their analytics project. What scenario does this describe?
+> Seeing the big picture
+- Fill in the blank: TRIM is a function that removes _____ spaces in data. Select all that apply.
+> leading, repeated, trailing
+- Fill in the blank: While cleaning data, a data analyst can use a changelog to keep a chronological list of changes they make. They can refer to it during the _____ period if there are errors or questions.
+> verification
+
+# Course Challenge
+**Just Go there and read out all questions** 
+
+
+
+
+
+
+
+
+
+
+
+
+
