@@ -86,3 +86,26 @@ Rows 10 and 11 contain duplicate data.
 - Fill in the blank: Data mapping is the process of _____ fields from one data source to another.
 > matching
 
+# Week three
+### SQL
+- Which of the following are benefits of using SQL? Select all that apply.
+> SQL can be adapted and used with multiple database programs, SQL can be adapted and used with multiple database programs, SQL can handle huge amounts of data.
+- Which of the following tasks can data analysts do using both spreadsheets and SQL? Select all that apply. 
+> Use formulas, Perform arithmetic, Join data
+- SQL is a language used to communicate with databases. Like most languages, SQL has dialects. What are the advantages of learning and using standard SQL? Select all that apply. 
+> Standard SQL works with a majority of databases., Standard SQL requires a small number of syntax changes to adapt to other dialects.
+
+### SQL Queries
+- Which of the following SQL functions can data analysts use to clean string variables? Select all that apply. 
+> trim, substr
+
+## Weekly CHallenge
+- Fill in the blank: Data analysts usually use _____ to deal with very large datasets. 
+> SQL
+- What are some of the benefits of using SQL for analysis? Select all that apply.
+> SQL can pull information from different database sources., SQL tracks changes across a team., SQL interacts with database programs.
+- Fill in the blank: In SQL databases, the _____ function can be used to convert data from one datatype to another. 
+> CAST
+- What SQL function lets you add strings together to create new text strings that can be used as unique keys? 
+> concat
+- 
