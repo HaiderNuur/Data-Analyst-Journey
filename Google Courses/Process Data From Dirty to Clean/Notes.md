@@ -116,4 +116,14 @@ Refer to these "top ten" lists for data cleaning in Microsoft Excel and Google S
 - Data mapping: is the process of matching fields from one data source to another
 - Schema: a way of describing how something is organized
 - Even more data-cleaning techniques: https://www.coursera.org/learn/process-data/lecture/Ei2IH/even-more-data-cleaning-techniques
-- 
+
+# Week three
+### hands on activity on Cleaning up data with SQL is very important = https://www.coursera.org/learn/process-data/quiz/kU8TQ/hands-on-activity-clean-data-using-sql
+SQL learn topics
+- Getting data from a table using SELECT statements.
+- De-duplicating data using commands like DISTINCT and COUNT + WHERE.
+- Manipulating string data with TRIM() and SUBSTR.
+- Creating/dropping tables with CREATE TABLE and DROP TABLE.
+- Changing data types with CAST.
+
+
