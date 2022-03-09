@@ -54,4 +54,8 @@
 - Fill in the blank: When working with a spreadsheet, data analysts can use the _____ function to locate specific characters in a string.
 > Find
 
- 
+ # week three
+ ### VLOOKUP
+ - To change a text string in spreadsheet cell F8 to a numerical value, what is the correct function? 
+> =VALUE(F8)
+- 
