@@ -38,7 +38,28 @@ LIMIT 10;
 
 - Working with LEN, LEFT, RIGHT, FIND in spreadsheets
 - **Advanced Spreadsheet tips and tricks: https://www.coursera.org/learn/analyze-data/supplement/6Vp5U/advanced-spreadsheet-tips-and-tricks**
+
+# Week Three : aggregate data for analysis
+### VLOOKUP for data aggregation
+- Benefits of data aggregation: identify trends, make comparisons, gain insights
+- subquery: a query within a query
+- Vertical Lookup: a function that searches for a certain value in a column to return a corresponding piece of information
+
+Problems faced in VLOOKUP
+- doesn't work if data has wrong format and extra space: solve with value and trim first
+- only returns first match if there's duplicates (remove duplicates)
+
+Troubleshooting questions
+- How should I prioritize these issues?
+- In a single sentence, what's the issue I'm facing?
+- What resources can help me solve the problem?
+- How can i stop this problem from happening in the future?
+
+VLOOKUP issues
+- can only return value data from the right, it can't look left. (copying and pasting the columns in the right)
+- table array should be always absolute reference.
+- if changes data, it doesn't work. can protect the sheet or use Match function
+- should always use FALSE, exact match
+
+- **VLOOKUP Core Concepts: https://www.coursera.org/learn/analyze-data/supplement/SNmqP/vlookup-core-concepts**
 - 
-
-
-
