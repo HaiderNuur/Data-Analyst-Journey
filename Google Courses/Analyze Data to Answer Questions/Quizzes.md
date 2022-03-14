@@ -58,4 +58,11 @@
  ### VLOOKUP
  - To change a text string in spreadsheet cell F8 to a numerical value, what is the correct function? 
 > =VALUE(F8)
-- 
+### Aggregate functions 
+- A data analyst wants to retrieve only records from a database that have matching values in two different tables. Which JOIN function should they use?
+> Inner join
+- You are writing a SQL query to instruct a database to count values in a specified range. You only want to count each value once, even if it appears multiple times. Which function should you include in your query?
+> count distinct
+- A data analyst wants to temporarily name a column in their query to make it easier to read and write. What technique should they use?
+> aliasing
+
