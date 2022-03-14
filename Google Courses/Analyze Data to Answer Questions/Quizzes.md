@@ -65,4 +65,13 @@
 > count distinct
 - A data analyst wants to temporarily name a column in their query to make it easier to read and write. What technique should they use?
 > aliasing
+# Weekly challenge
+- In data analytics, what is the process of gathering data from multiple sources and combining it into a single, summarized collection?
+> Data aggregation
+- A data analyst wants to be sure all of the numbers in a spreadsheet are numeric. What function should they use to convert text to numeric values? 
+> value
+- When using VLOOKUP, there are some common limitations that data analysts should be aware of. One of these limitations is that VLOOKUP only returns the first match it finds, even if there are many possible matches within the column.
+> True
+- A data analyst writes a query that asks a database to return only distinct values in a specified range, rather than including repeating values. Which function do they use?
+> count distinct
 
