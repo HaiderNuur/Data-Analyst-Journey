@@ -62,4 +62,22 @@ VLOOKUP issues
 - should always use FALSE, exact match
 
 - **VLOOKUP Core Concepts: https://www.coursera.org/learn/analyze-data/supplement/SNmqP/vlookup-core-concepts**
-- 
+### USE JOINs to aggregate data in SQL
+- 4 Common JOINs: Inner, Left, Right, Outer
+- Inner Join: a function that returns records with matching values in both tables, by default JOIN is inner join
+- Left Join: a function that will return all the records from the left table and only the matching records from the right table
+- Right join: opposite of left join
+- Outer join: a function that combines RIGHT and LEFT join to reutrn all matching records in both tables
+- Importance of Aliases: https://www.coursera.org/learn/analyze-data/supplement/qURXP/secret-identities-the-importance-of-aliases
+- Using JOINs effectively: https://www.coursera.org/learn/analyze-data/supplement/DBOi7/using-joins-effectively
+- using Count and count distinct
+- count distinct: a query that only returns the distinct values in a specified range
+
+
+### Using subqueries to aggregate data
+- Queries within queries: https://www.coursera.org/learn/analyze-data/lecture/Zkoae/queries-within-queries
+- HAVING: allows you to add a filter to your query instead of the underlying table that can only be used with aggregate functions
+- CASE: returns records with your conditions by allowing you to include if/then statements in your query
+- using Subqueries to aggregate data: https://www.coursera.org/learn/analyze-data/lecture/JjPZ5/using-subqueries-to-aggregate-data
+- **SQL functions and subqueries: https://www.coursera.org/learn/analyze-data/supplement/SthVU/sql-functions-and-subqueries-a-functional-friendship**
+-
