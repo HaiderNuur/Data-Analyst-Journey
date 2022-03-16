@@ -80,4 +80,13 @@ VLOOKUP issues
 - CASE: returns records with your conditions by allowing you to include if/then statements in your query
 - using Subqueries to aggregate data: https://www.coursera.org/learn/analyze-data/lecture/JjPZ5/using-subqueries-to-aggregate-data
 - **SQL functions and subqueries: https://www.coursera.org/learn/analyze-data/supplement/SthVU/sql-functions-and-subqueries-a-functional-friendship**
--
+
+# Week four
+### Data calculations
+- highlight average sales of months by conditional formatting *using color scale
+- COUNTIF, SUMIF, AVERAGEIF, MAXIFS usage
+- **Functions with multiple conditions: https://www.coursera.org/learn/analyze-data/supplement/s9khi/functions-with-multiple-conditions**
+- Composite functions: SUMPRODUCT
+- Profit margin: A profit margin that indicates how many cents of profit has been generated for each dollar of sale
+- finding profit margin using sumproduct
+- 
