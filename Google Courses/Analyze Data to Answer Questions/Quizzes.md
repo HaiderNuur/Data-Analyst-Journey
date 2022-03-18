@@ -75,3 +75,12 @@
 - A data analyst writes a query that asks a database to return only distinct values in a specified range, rather than including repeating values. Which function do they use?
 > count distinct
 
+# Week 4
+## Weekly challenge
+- You are working in a spreadsheet and use the SUMIF function in the formula below as part of your analysis. 
+=COUNTIF(D2:D10, ”>=50”, E2:E10)
+Which part of this formula indicates the range of values to be added? 
+> E2:E10
+- Fill in the blank: When you build a SUMIF or COUNTIF formula, the first part of the formula in parentheses is the _____.
+> range
+- **Rest Just read them all**
