@@ -90,3 +90,20 @@ VLOOKUP issues
 - Profit margin: A profit margin that indicates how many cents of profit has been generated for each dollar of sale
 - finding profit margin using sumproduct
 - 
+### Pivot, pivot ....
+- Pivot tables: let you view data in multiple ways to find insights and trends
+- Calculated field: a new field within a pivot table that carries out certain calculations based on the values of other fields.
+- elements of pivot table: https://www.coursera.org/learn/analyze-data/supplement/j6w9Z/elements-of-a-pivot-table
+- **Pivot table in analysis: https://www.coursera.org/learn/analyze-data/supplement/qRo2l/using-pivot-tables-in-analysis**
+- **Start working with pivot: https://www.coursera.org/learn/analyze-data/lecture/HCOme/start-working-with-pivot-tables**
+
+### SQL calculations
+- SELECT ColumnA + ColumnB AS columnC (add the values of the columns), (columnA + ColB) * Col C AS ColX, 
+- Using underscores instead of spaces helps avoid potential issues with servers and applications. It also helps to keep the column names readable
+- **https://www.coursera.org/learn/analyze-data/supplement/tQAED/types-of-data-validation **
+### Temp tables
+- **https://www.coursera.org/learn/analyze-data/lecture/tMnmz/temporary-tables**
+- **https://www.coursera.org/learn/analyze-data/lecture/C1bQ7/multiple-table-variations**
+- EXTRACT - lets us pull one part of a given date to use
+- How to create temporary tables: WITH clauses, SELECT INTO statements, CREATE TABLE statements, CREATE TEMP Table statements
+- **https://www.coursera.org/learn/analyze-data/supplement/oGADZ/working-with-temporary-tables**
