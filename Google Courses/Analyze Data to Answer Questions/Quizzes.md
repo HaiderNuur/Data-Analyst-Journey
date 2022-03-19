@@ -84,3 +84,6 @@ Which part of this formula indicates the range of values to be added?
 - Fill in the blank: When you build a SUMIF or COUNTIF formula, the first part of the formula in parentheses is the _____.
 > range
 - **Rest Just read them all**
+
+# Course Challenge
+- Just Ream them all!
