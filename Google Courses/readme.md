@@ -34,3 +34,12 @@ Topics Learnt
 - Aggregate data for analysis
 - performing data calculations
 ### Tools Used: Spreadsheets, BigQuery (SQL)
+
+# Course 6: Share data through art of visualizations
+Topics learnt
+- basic concepts of data visualization
+- how to plan for and start building effective visualizations
+- How Data visualizations, including visual dashboards, can help bring your data to life
+- Presentations and slideshows continue telling a story with data
+- how to anticipate and answers to questions to stakeholders
+
