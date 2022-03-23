@@ -25,4 +25,5 @@
 - **https://www.coursera.org/learn/visualize-data/supplement/ihlqt/design-thinking-for-visualization-improvement**
 - **https://www.coursera.org/learn/visualize-data/supplement/ewNyk/pro-tips-for-highlighting-key-information**
 - **https://www.coursera.org/learn/visualize-data/supplement/IcuWb/designing-a-chart-in-60-minutes**
-- 
+- ways to make data visualizations accessible: labeling, text alternatives,text-based formats, distinguishing, simplifying. 
+ 
