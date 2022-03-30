@@ -27,3 +27,11 @@
 - **https://www.coursera.org/learn/visualize-data/supplement/IcuWb/designing-a-chart-in-60-minutes**
 - ways to make data visualizations accessible: labeling, text alternatives,text-based formats, distinguishing, simplifying. 
  
+# Week Two: Tableau
+- Tableau: A business intelligence and analytics platform that helps people see, understand, and make decisions with data.
+- **Create a HIGHLIGHT table/ HEAT MAP: https://help.tableau.com/current/pro/desktop/en-us/buildexamples_highlight.htm**
+- **https://help.tableau.com/current/pro/desktop/en-us/maps_howto_heatmap.htm**
+- **VERY IMPORTANT: https://www.coursera.org/learn/visualize-data/supplement/bDdpK/visualizations-in-spreadsheets-and-tableau**
+- the first step to identifying appropriate visualizations is understanding what kind of data you are presenting, and that you should apply the four rules above to ensure the visualization has the biggest impact.
+- After you understand the type of data (frequency, changes over time, categorical comparisons, etc.), then you must determine what your audience needs to see to understand your analysis. After that, find which graph or chart style fits your goal. Finally, utilize the visual design guidelines above to create an accessible and aesthetically pleasing data visualization.
+- 
