@@ -34,4 +34,6 @@
 - **VERY IMPORTANT: https://www.coursera.org/learn/visualize-data/supplement/bDdpK/visualizations-in-spreadsheets-and-tableau**
 - the first step to identifying appropriate visualizations is understanding what kind of data you are presenting, and that you should apply the four rules above to ensure the visualization has the biggest impact.
 - After you understand the type of data (frequency, changes over time, categorical comparisons, etc.), then you must determine what your audience needs to see to understand your analysis. After that, find which graph or chart style fits your goal. Finally, utilize the visual design guidelines above to create an accessible and aesthetically pleasing data visualization.
+
+- ** Combining multiple data sources: https://www.coursera.org/learn/visualize-data/supplement/mx5BE/tableau-resources-for-combining-multiple-data-sources 
 - 
