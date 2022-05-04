@@ -38,3 +38,24 @@
 - A diverging color palette in Tableau displays characteristics of values using what color combination?
 > Intensity for the range and hue for the magnitude
 - 
+
+## Weekly Challenge
+- Tableau is used to create interactive and dynamic visualizations. A visualization is interactive when the audience can control what data they see. What does it mean for a visualization to be dynamic? 
+> The visualization can change over time
+- A data analyst uses the Color tool in Tableau to apply a color scheme to a data visualization. In order to make the visualization accessible for people with color vision deficiencies, what should they do next?
+> Make sure the color scheme has contrast
+- A data analyst is working with the World Happiness data in Tableau. What tool do they use to select the area on the map representing Finland?
+> Lasso
+- You are working with the World Happiness data in Tableau. What tool do you use to get a better view of Greece? 
+> Pan
+- You are working with the World Happiness data in Tableau. To display the population of each country on the map, which Marks shelf tool do you use? 
+> Label
+- You are working with the World Happiness data in Tableau. Which tool will enable you to show certain data while hiding the rest?
+> Filter
+- A data analyst is creating a visualization in Tableau Public. They want to keep it private from other users until it is complete. Which icon should they click?
+> Eye
+- Fill in the blank: In Tableau, a _____ palette displays two value ranges. Color shows the range where a data point is from, and color intensity shows its magnitude. 
+> Diverging
+- What could a data analyst do with the Lasso tool in Tableau?
+> select a data point
+- 
