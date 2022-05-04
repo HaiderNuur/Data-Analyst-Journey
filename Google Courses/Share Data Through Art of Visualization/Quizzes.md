@@ -25,3 +25,16 @@
 - You are in the process of creating data visualizations. You have considered the goal and the audience’s needs. Next, you will generate ideas for data visualizations and brainstorming solutions. What phase of the design process will you be in?
 > Separate the foreground and background
 - **Read the rest**
+
+
+# Week Two
+### Practice Quiz
+- As a business intelligence and analytics platform, Tableau enables you to do what with data? Select all that apply.
+> Observe and understand data to make decisions, Create and share interactive dashboards with data, Connect to data in databases, spreadsheets, or CSV files
+- Compare Tableau to other data visualization software such as Looker and Google Data Studio. What feature is unique to Tableau?
+> Desktop version for users
+- Fill in the blank: When using Tableau Public, click the Gallery tab to access _____.
+> Public visualizations
+- A diverging color palette in Tableau displays characteristics of values using what color combination?
+> Intensity for the range and hue for the magnitude
+- 
