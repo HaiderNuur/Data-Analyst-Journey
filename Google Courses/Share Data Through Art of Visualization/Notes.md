@@ -60,3 +60,20 @@
 - Plot creates tension in the situation. 
 - https://www.coursera.org/learn/visualize-data/lecture/QlJCi/sharing-a-narrative
 
+# Week Four
+- The frameword of your presentation starts with your understanding of the business task
+- When creating a presentation to share with stakeholders, what is the purpose of a framework: Create logical connections that tie back to the business task, help you focus on the most important information, give your audience context to better understand your data.
+- **https://www.coursera.org/learn/visualize-data/lecture/P0cIP/weaving-data-into-your-presentation
+- The McCandless Method: Introduce the graphic by name, answer obvious questions before they're asked, state the insight of your graphic, call out data to support that insight, tell your audience why it matters
+- **https://www.coursera.org/learn/visualize-data/lecture/SYW63/connor-messy-example-of-a-data-presentation**
+- **https://www.coursera.org/learn/visualize-data/lecture/ZJP4T/connor-good-example-of-a-data-presentation**
+
+## Presentations tips
+- Two key responsibilities of a data analyst: Analyze the data, Present your findings effectively
+- Channel your excitement, start with broader ideas, use 5 second rule (wait 5 sec after showing a data visualization, ask if they understand, give your audience another 5 sec, tell them the conclusion), Preparation is key. 
+- **https://www.coursera.org/learn/visualize-data/quiz/p7SVL/self-reflection-examples-of-great-presentations**
+- **https://www.coursera.org/learn/visualize-data/supplement/igsQe/learning-log-evaluate-your-presentation**
+- **https://www.coursera.org/learn/visualize-data/supplement/RI0Cu/preparing-for-the-q-a**
+- **https://www.coursera.org/learn/visualize-data/lecture/BxgQQ/handling-objections**
+- https://www.coursera.org/learn/visualize-data/lecture/pA1FW/q-a-best-practices
+- 
