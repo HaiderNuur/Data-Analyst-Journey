@@ -92,7 +92,61 @@ messages.
 > Link the original visual within the presentation
 - Fill in the blank: A data analyst is creating the title slide in a presentation. The data they are sharing is likely to change over time, so they include the _____ on the title slide. This adds important context. 
 > date of the presentation
-- 
+
+# Week Four
+## Effective Presentations
+- Which of the following is an example of a business task? Select all that apply.
+> Identifying a company’s most productive manufacturing plants, Finding relationships between weather patterns and economic activity, Comparing in-person and online clothing purchasing trends to make stocking decisions
+- A supervisor asks a junior data analyst to present two hypotheses regarding a data analytics project. What is the purpose of a hypothesis?
+> To theorize about data
+- Which of the following is an example of an initial hypothesis? Select all that apply.
+> A relationship exists between the holiday season and increased traffic congestion, A company's trend of annual revenue growth is from an increasing number of online sales
+- In the McCandless Method, the first step involves communicating to the audience where they should focus and what the graphic is about. Which step is this?
+> Introduce the graphic by name
+
+## Presentation skills and practices
+- Which techniques can be helpful to prevent nerves before a presentation? Select all that apply.
+> Prepare materials beforehand, channel your excitement
+- Which technique can make it easier to keep your body calm before a presentation?
+> Practicing breathing exercise
+- Which practices are helpful for keeping an audience focused on your presentation? Select all that apply.
+> be mindful of nervous habits, build in intentional pauses, make eye contact.
+
+## Caveats and limitations to data
+- What is the technique that data analysts use to help them anticipate the questions a stakeholder might have during a Q&A?
+> Collegue test
+- You present to your stakeholders, and they express concern about how your results compare to previous results. Which kind of objection are they making?
+> Findings
+- After your presentation, a stakeholder is concerned about whether your data comes from a reputable source. In what ways should you respond? Select all that apply.
+> Follow up with details about the source, Take steps to investigate the source further, acknowledge the objection is valid
+## Listening, responding and including 
+- After you finish giving a presentation, an audience member asks your team for additional information on your topic. Your coworker is answering the question thoroughly, but you notice that the rest of your audience has tuned out. How can you re-engage your audience? Select all that apply.
+> Redirect to a new question, ask a question to the audience
+- You answer a question from an audience member, who then seems confused. You conclude that you didn’t understand the question. What should you have done differently to avoid the issue? Select all that apply.
+> Listened to the full question, repeated the question to clarify
+- Your audience has several questions after your presentation, and you may not have enough time to answer them all. How should you proceed?
+> Keep responses brief and follow up after the presentation
+
+## Weekly Challenge
+- A data analyst gives a presentation about predicting upcoming investment opportunities. How does establishing a hypothesis help the audience understand their predictions?
+> It provides context about the presentation’s purpose
+- According to the McCandless Method, what is the most effective way to first present a data visualization to an audience?
+> Introduce the graphic by name
+- An analyst introduces a graph to their audience to explain an analysis they performed. Which strategy would allow the audience to absorb the data visualizations? Select all that apply.
+> Starting with broad ideas, Using the five-second rule
+- You are preparing to present in front of a large audience. Which of the following is a best practice for speaking to an audience?
+> Speak at a relaxed pace in short sentences
+- You are running a colleague test with your coworkers. One coworker points out that she doesn’t understand one of your graphs. What can you do to prepare for presenting to your stakeholders? Select all that apply.
+> Elaborate on the data from the graph, redesign the graph
+- Your stakeholders express concern that the results of your analysis are very different from the predictions they made last year. Which kind of objection are they making?
+> Findings
+- You are on a team of analysts presenting to your stakeholders. Your teammate responds to an objection about your steps of analysis by repeating the steps and then getting defensive when the stakeholders don’t seem to understand. What could they have done to respond to the objection more appropriately? Select all that apply.
+> Acknowledge that the objection is valid, Promise to investigate your analysis question further, Describe the approach you took in your analysis
+- You are presenting to a large audience and want to keep everyone engaged during your Q&A. What can you do to ensure your audience doesn’t grow disinterested despite its size?
+> Ask your audience for insights
+
+
+
 
 
 
