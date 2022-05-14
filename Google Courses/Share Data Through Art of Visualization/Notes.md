@@ -36,4 +36,27 @@
 - After you understand the type of data (frequency, changes over time, categorical comparisons, etc.), then you must determine what your audience needs to see to understand your analysis. After that, find which graph or chart style fits your goal. Finally, utilize the visual design guidelines above to create an accessible and aesthetically pleasing data visualization.
 
 - ** Combining multiple data sources: https://www.coursera.org/learn/visualize-data/supplement/mx5BE/tableau-resources-for-combining-multiple-data-sources 
-- 
+
+# Week Three
+
+#### 3 data storytelling steps
+1. Engage your audience: Seek to capture the audience's attention on an intellectual and emotional level, identify your audience,  understand what internal stakeholders want from the project.
+2. Create compelling visuals: Highlight the meaning behind the numbers at a glance, incorporate some interactive layered data so the curious can explore, visuals should be clear and able to stand on their own.
+3. Tell the story in an interesting narrative: Clearly articulate recurring themes and data points, provide recommendations at the end.
+
+
+- In tableau, tiled items can't be layered over other objects. They are part of a single-layered grid that automatically resizes based on the overall dashboard size. You can layer floating items over other objects.
+
+- https://www.coursera.org/learn/visualize-data/supplement/vCKv9/live-and-static-insights
+
+- Filters in tableau can be used for: to customized information, to highlight a data point, to limit information
+
+
+- Compelling presentation tips: Characters (stakeholders, customers, clients), setting (what's going on, how often it's happening, what tasks are involved, and other background), Plot (a new challenge needs to be fixed up, a new opportunity that the company just can't pass up), Big reveal (is how the data has shown that you can solve the problem by the characters are facing by becoming more competitive, improving a process, inventing a new system, or whatever the ultimate goal of your data project may be), Aha moment (when you share your recommendations and explain why you think they'll help your company be successful)
+- The big reveal is how data solves the problem. Here, a timely marketing campaign could increase lumber sales
+- Setting is what's happening and other background info.
+- The Aha moment involves data-driven recommendations. 
+- Characters are people affected by your story. 
+- Plot creates tension in the situation. 
+- https://www.coursera.org/learn/visualize-data/lecture/QlJCi/sharing-a-narrative
+
