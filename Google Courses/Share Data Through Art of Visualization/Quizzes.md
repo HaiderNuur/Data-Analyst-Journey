@@ -59,3 +59,41 @@
 - What could a data analyst do with the Lasso tool in Tableau?
 > select a data point
 - 
+# Week Three
+- Data storytelling involves which of the following elements?
+> Communicating the meaning of a dataset with visuals, using a narrative that is customized to your audience.
+- A data analyst presents their data story to an audience. They aim to capture and hold the audience members’ interest and attention. Which data storytelling concept does this describe?
+> Engagement
+- Which of the following activities would a data analyst do while spotlighting? Select all that apply.
+> Focus on the details of the analysis and results; write notes on a white board that contain the data analysis insights; search for broad, universal ideas and me
+messages.
+
+- A new challenge from a competitor, an inefficient process that needs to be improved, or a potential business opportunity could all represent which aspect of data storytelling?
+> Plot
+- Fill in the blank: When designing a presentation, a slideshow tool called _____ can be used to control the color, font types and sizes, formating, and positioning of text and visuals. 
+> Themes
+
+## Weekly Challenge
+- Fill in the blank: A data-storytelling narrative connects the data to the project _____.
+> objectives
+- Which of the following questions do data analysts ask to make sure they will engage their audience? Select all that apply.
+> What roles do the people in this audience play?, What does the audience hope to do with the data insights?
+- When designing a dashboard, how can data analysts ensure that charts and graphs are most effective? Select all that apply.
+> Place them in a balanced layout, Make good use of available space
+- A data analyst is creating a dashboard using Tableau. In order to layer objects over other items, which layout should they choose?
+> Floating
+- A data analyst creates a scatter plot in Tableau and notices an outlier. What should they do next?
+> Investigate the outlier to determine if it can lead to any important observations
+- A data analyst wants to save stakeholders time and effort when working with a Tableau dashboard. They also want to direct stakeholders to the most important data. What process can they use to achieve both goals? 
+> Pre-filtering
+- Fill in the blank: An effective slideshow guides your audience through your main communication points, but it does not repeat every word you say. A best practice is to keep text to fewer than five lines and _____ words per slide.
+> 25
+- You want to include a visual in your slideshow that will update automatically when its original source file updates. Which of the following actions will enable you to do so?
+> Link the original visual within the presentation
+- Fill in the blank: A data analyst is creating the title slide in a presentation. The data they are sharing is likely to change over time, so they include the _____ on the title slide. This adds important context. 
+> date of the presentation
+- 
+
+
+
+
