@@ -1,3 +1,4 @@
+# Week One
 - The term R is used to refer to both the programming language and the software that interprets the scripts written using it.
 
 - RStudio is currently a very popular way to not only write your R scripts but also to interact with the R software. To function correctly, RStudio needs R and therefore both need to be installed on your computer.
@@ -12,7 +13,8 @@
 ***very important: https://www.coursera.org/learn/data-analysis-r/supplement/Q1J3x/when-to-use-rstudio
 ** https://www.coursera.org/learn/data-analysis-r/supplement/XgjMC/connecting-with-other-analysts-in-the-r-community
 
-
-
-
+# Week Two
+- **Very important: Working with dates: https://www.coursera.org/learn/data-analysis-r/supplement/g0l4l/dates-and-times-in-r**
+- https://www.coursera.org/learn/data-analysis-r/supplement/xEM9d/other-common-data-structures
+- 
 
