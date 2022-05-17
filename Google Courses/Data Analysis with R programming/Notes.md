@@ -26,4 +26,23 @@
 - A vignette is documentation that acts as a guide to an R package. A vignette shares details about the problem that the package is designed to solve and how the included functions can help you solve it. The browseVignettes function allows you to read through vignettes of a loaded package.
 - Tidyverse was designed to improve the overall workflow for analysts. Since the packages are all integrated with each other, your analysis will be more efficient. You can use the browseVignettes function to find out more about each package and how to use it.
 - https://www.coursera.org/learn/data-analysis-r/supplement/aFF6V/r-resources-for-more-help 
+- ggplot2(): Create a variety of data viz by applying different visual properties to the data variables in R
+tidyr(): A package used for data cleaning to make tidy data
+readr(): importing data (csv to R)
+tibbile(): works with data frames
+purrr(): works with vectors
+string(): strings
+forcats(): factors
+Factors: store categorical data in R where the data values are limited and usuall based on a finite group like country or year
 
+- A pipe is a tool in R that helps make your code more efficient and easier to read and understand.
+- Pipe(R): a tool in R for expressing a sequence of multiple operations, represented with "%>%"
+
+
+# Week Three
+- Data frames: collection of columns, columns should be named, data stored can be many different types, like numeric, factor, or character.
+- Tibbles: are like streamlined data frames, never change the data types of the inputs, never change the names of your variables, never create row names, make printing easier.
+- Tidy data(R): a way of standardizing the organization of data within R.
+- Tidy data standards: variables are organized into columns, observations are organized into rows, each value must have its own cell.
+-  Tibbles are like streamlined data frames that are automatically set to pull up only the first 10 rows of a dataset, and only as many columns as can fit on the screen.
+- 
