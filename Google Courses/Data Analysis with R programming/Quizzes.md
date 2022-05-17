@@ -38,5 +38,17 @@ Which of the following examples is a nested function in the code?
 > Tests for checking your code, Sample datasets, Reusable R functions
 - When an analyst installs a package that is not in Base R, where does R call the package from?
 > The CRAN archive
+# Week Three
+### Data frames
+- Which of the following are best practices for creating data frames? Select all that apply.
+> Columns should be named, each column should contain the same number of data items
+- Why are tibbles a useful variation of data frames>
+> Tibbles make printing easier
+- Tidy data is a way of standardizing the organization of data within R.
+> True
+- Which R function can be used to make changes to a data frame?
+> mutate()
+
+
 
 
