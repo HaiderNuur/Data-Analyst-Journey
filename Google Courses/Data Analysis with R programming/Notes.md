@@ -45,4 +45,13 @@ Factors: store categorical data in R where the data values are limited and usual
 - Tidy data(R): a way of standardizing the organization of data within R.
 - Tidy data standards: variables are organized into columns, observations are organized into rows, each value must have its own cell.
 -  Tibbles are like streamlined data frames that are automatically set to pull up only the first 10 rows of a dataset, and only as many columns as can fit on the screen.
-- 
+- **Very important: https://www.coursera.org/learn/data-analysis-r/supplement/lehtV/file-naming-conventions** 
+- **https://www.coursera.org/learn/data-analysis-r/supplement/n5cto/more-on-r-operators**
+- Clean: Cleaning functions help you preview and rename data so that it's easier to work with.
+Examples: skim_without_chart(), select(), rename_with(), glimpse(), clean_names(), rename()
+Organize: Organizational functions help you sort, filter, and summarize your data. 
+Examples: mean(), arrange(), summarise(), max(), group_by(), filter(), drop_na(), 
+Transform: Transformational functions help you separate and combine data, as well as create new variables.
+Examples: separate(), mutate(), unite() 
+
+- Anscombe's quartet: Four datasets that have nearly identical summary statistics. 
