@@ -48,7 +48,9 @@ Which of the following examples is a nested function in the code?
 > True
 - Which R function can be used to make changes to a data frame?
 > mutate()
-
-
+### Cleaning data
+- A data analyst is cleaning their data in R. They want to be sure that their column names are unique and consistent to avoid any errors in their analysis. What R function can they use to do this automatically?
+> clean_names()
+- 
 
 
