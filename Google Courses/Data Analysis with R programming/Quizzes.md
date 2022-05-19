@@ -51,6 +51,19 @@ Which of the following examples is a nested function in the code?
 ### Cleaning data
 - A data analyst is cleaning their data in R. They want to be sure that their column names are unique and consistent to avoid any errors in their analysis. What R function can they use to do this automatically?
 > clean_names()
-- 
-
+## Weekly Challenge
+- A data analyst is considering using tibbles instead of basic data frames. What are some of the limitations of tibbles? Select all that apply.
+> Tibbles won’t automatically change the names of variables, Tibbles can never change the input type of the data, won't overload the console.
+- A data analyst creates a data frame with data that has more than 50,000 observations in it. When they print their data frame, it slows down their console. To avoid this, they decide to switch to a tibble. Why would a tibble be more useful in this situation? 
+> Tibbles won’t overload the console because they automatically only print the first 10 rows of data and as many variables as will fit on the screen
+- A data analyst is working with a data frame named cars. The analyst notices that all the column names in the data frame are capitalized. What code chunk lets the analyst change all the column names to lowercase? 
+> rename_with(cars, tolower)
+- A data analyst is working with the penguins dataset in R. What code chunk will allow them to sort the penguins data by the variable bill_length_mm? 
+> arrane(penguins, bill_length_mm)
+- A data analyst is working with a data frame named salary_data. They want to create a new column named wages that includes data from the rate column multiplied by 40. What code chunk lets the analyst create the wages column? 
+> mutate(salary_data, wages = rate * 40)
+- A data analyst is working with a data frame named retail. It has separate columns for dollars (price_dollars) and cents (price_cents). The analyst wants to combine the two columns into a single column named price, with the dollars and cents separated by a decimal point. For example, if the value in the price_dollars column is 10, and the value in the price_cents column is 50, the value in the price column will be 10.50. What code chunk lets the analyst create the price column? 
+> unite(retail, "price", price_dollars, cents, sep = ".")
+- A data analyst uses the bias() function to compare the actual outcome with the predicted outcome to determine if the model is biased. They get a score of 0.8. What does this mean?
+> not biased
 
