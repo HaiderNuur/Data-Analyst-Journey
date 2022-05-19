@@ -55,3 +55,6 @@ Transform: Transformational functions help you separate and combine data, as wel
 Examples: separate(), mutate(), unite() 
 
 - Anscombe's quartet: Four datasets that have nearly identical summary statistics. 
+- The bias() finds the average amount that the actual outcome is greater than the predicted outcome; it's included in the SimDesign package. If the model is unbiased, the output should be pretty close to 0. 
+- https://www.coursera.org/learn/data-analysis-r/lecture/z1TG8/the-bias-function
+- https://www.coursera.org/learn/data-analysis-r/lecture/Rf92j/same-data-different-outcome
