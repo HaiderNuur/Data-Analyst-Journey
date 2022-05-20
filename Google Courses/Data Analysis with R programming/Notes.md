@@ -58,3 +58,23 @@ Examples: separate(), mutate(), unite()
 - The bias() finds the average amount that the actual outcome is greater than the predicted outcome; it's included in the SimDesign package. If the model is unbiased, the output should be pretty close to 0. 
 - https://www.coursera.org/learn/data-analysis-r/lecture/z1TG8/the-bias-function
 - https://www.coursera.org/learn/data-analysis-r/lecture/Rf92j/same-data-different-outcome
+- Some other useful packages for visualization:
+- Base R has its own package and there are other useful packages you can add to create piecharts or interactive graphs and maps.
+- Plotly: has wide range of visualization functions.
+- RGL: focus on specific solutions like 3D visuals. 
+- Most popular functions are: ggplot2, Plotly, Lattice, RGL, Dygraphs, Leaflet, Highcharter, Patchwork, gganimate, ggridges.
+- ggplot2: gg refers grammar of graphics. 
+
+
+Benefits of ggplot2:
+- create different types of plots
+- customize the look and feel of plots
+- create high quality visuals
+- combine data manipulation and visualization
+
+Core concepts of ggplot2:
+- Aesthetics: is a visual property of an object in your plot. For example: in a scatterplot, aesthetics include things like the size, shape or color of your data points. 
+- Geoms: The geometric object used to represent your data.
+- Facets: Let you display smaller groups, or subsets, of your data.
+- Labels and annotations: let customize your plot. 
+ 
