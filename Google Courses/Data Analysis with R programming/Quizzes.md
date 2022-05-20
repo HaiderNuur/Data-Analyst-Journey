@@ -66,4 +66,11 @@ Which of the following examples is a nested function in the code?
 > unite(retail, "price", price_dollars, cents, sep = ".")
 - A data analyst uses the bias() function to compare the actual outcome with the predicted outcome to determine if the model is biased. They get a score of 0.8. What does this mean?
 > not biased
+# Week Four
+- In ggplot2, you can use the _____ function to specify the data frame to use for your plot. 
+> ggplot()
+- In ggplot2, you use the plus sign (+) to add a layer to your plot. 
+> True
+- In ggplot2, what function do you use to map variables in your data to visual features of your plot?
+> aes()
 
