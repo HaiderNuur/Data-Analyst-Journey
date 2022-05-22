@@ -97,3 +97,15 @@ geom_point(): Next, you choose a geom by adding a geom function. The geom_point(
 
 ###### Pro-Tip: You can write the same section of code above using a different syntax with the mapping argument inside the ggplot() call: ggplot(data = penguins, mapping = aes(x = flipper_length_mm, y = body_mass_g)) +  geom_point()
 
+
+There are three aesthetic attributes in ggplot2
+- color: allows to change the color of all the points on your plot, or each data group.
+- size: allows to change the size of the points on your plot by data group.
+- shape: allows to change the shape of the points on your plot by data group.
+
+
+- Geom functions: geom_point, geom_bar, geom_line, geom_smooth and many more.
+- Smoothing enables the detection of a data trend even when you can't easily notice a trend from the plotted data points. Ggplot2’s smoothing functionality is helpful because it adds a smoothing line as another layer to a plot; the smoothing line helps the data to make sense to a casual observer. 
+- Facets: let you display smaller groups, or subsets, of your data.
+- Facet_grid(): split the plot into facets vertically by the values of first variable and horizontally by the values of second variable. 
+
