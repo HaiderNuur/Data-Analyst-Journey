@@ -73,4 +73,10 @@ Which of the following examples is a nested function in the code?
 > True
 - In ggplot2, what function do you use to map variables in your data to visual features of your plot?
 > aes()
-
+- Which of the following functions let you display smaller groups, or subsets, of your data?
+> facet_wrap()
+- What is the role of the x argument in the following code? ggplot(data = diamonds) +
+     geom_bar(mapping = aes(x = cut))
+> an aesthetic
+- A data analyst creates a scatterplot with a lot of data points. It is difficult for the analyst to distinguish the individual points on the plot because they overlap. What function could the analyst use to make the points easier to find? 
+> geom_jitter()
