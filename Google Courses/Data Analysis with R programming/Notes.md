@@ -108,4 +108,12 @@ There are three aesthetic attributes in ggplot2
 - Smoothing enables the detection of a data trend even when you can't easily notice a trend from the plotted data points. Ggplot2’s smoothing functionality is helpful because it adds a smoothing line as another layer to a plot; the smoothing line helps the data to make sense to a casual observer. 
 - Facets: let you display smaller groups, or subsets, of your data.
 - Facet_grid(): split the plot into facets vertically by the values of first variable and horizontally by the values of second variable. 
+- **Week four videos and resources are very important**
 
+# Week Five
+- Markdown: R markdown is a file format for making dynamic documents with R. R Markdown is a useful tool that allows you to save and execute code, and generate shareable reports for stakeholders.
+- Markdown is a syntax for formatting plain text files.
+- To italicize a phrase or markdown: do _single_ or *single* 
+- R notebook: lets users run your code and show the graphs and charts that visualize the code.
+- other notebook options: Jupyter, Kaggle, Goolge Colab
+- 
