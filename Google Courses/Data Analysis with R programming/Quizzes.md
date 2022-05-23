@@ -80,3 +80,21 @@ Which of the following examples is a nested function in the code?
 > an aesthetic
 - A data analyst creates a scatterplot with a lot of data points. It is difficult for the analyst to distinguish the individual points on the plot because they overlap. What function could the analyst use to make the points easier to find? 
 > geom_jitter()
+- Which of the following are benefits of adding labels and annotations to your plot? Select all that apply. 
+> Helping stakeholders quickly understand your plot, Highlighting important data in your plot, Indicating the main purpose of your plot 
+- A data analyst is creating a plot for a presentation to stakeholders. The analyst wants to add a caption to the plot to help communicate important information. What function could the analyst use? 
+> labs()
+- What function can you use to put a text label inside the grid of your plot to call out specific data points? 
+> annotate()
+## Weekly Challenge
+- Which of the following are operations you can perform in ggplot2? Select all that apply. 
+> Change the colors and dimensions of your plot, Create scatterplots and bar charts
+- In ggplot2, what symbol do you use to add layers to your plot?
+> + sign
+- A data analyst uses the aes() function to define the connection between their data and the plots in their visualization. What argument is used to refer to matching up a specific variable in your data set with a specific aesthetic?
+> mapping()
+- A data analyst creates a scatterplot with a lot of data points. The analyst wants to make some points on the plot more transparent than others. What aesthetic should the analyst use? 
+> color
+- Fill in the blank: The _____  creates a scatterplot and then adds a small amount of random noise to each point in the plot to make the points easier to find.
+> geom_jitter()
+- 
