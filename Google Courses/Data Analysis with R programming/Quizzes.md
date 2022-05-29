@@ -97,4 +97,8 @@ Which of the following examples is a nested function in the code?
 > color
 - Fill in the blank: The _____  creates a scatterplot and then adds a small amount of random noise to each point in the plot to make the points easier to find.
 > geom_jitter()
+- Fill in the blank: Markdown is a _____ for formatting plain text files.
+> syntax
+- A data analyst creates an interactive version of their R Markdown document to share with other users that allows them to execute code the analyst wrote. What did they create?
+> An R Notebook
 - 
