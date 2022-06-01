@@ -116,4 +116,6 @@ There are three aesthetic attributes in ggplot2
 - To italicize a phrase or markdown: do _single_ or *single* 
 - R notebook: lets users run your code and show the graphs and charts that visualize the code.
 - other notebook options: Jupyter, Kaggle, Goolge Colab
-- 
+- Adding a code chunk in RMD file, Shortcut: ctrl+alt+I
+- visualizing with code chunks allows you to create data visualizations in the same document as text. This makes formatting reports much easier and simpler.
+- Adding code chunks to your R Markdown notebook can give other users an interactive way to understand your data analysis process and test out your code in their own RStudio console space. These can be useful for documenting your code and giving stakeholders a chance to explore the data.  
