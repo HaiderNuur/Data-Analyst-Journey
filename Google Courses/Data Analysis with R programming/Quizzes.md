@@ -102,3 +102,23 @@ Which of the following examples is a nested function in the code?
 - A data analyst creates an interactive version of their R Markdown document to share with other users that allows them to execute code the analyst wrote. What did they create?
 > An R Notebook
 
+# Week 5
+## Weekly challenge
+- R Markdown is a file format for making dynamic documents with R. What are the benefits of creating this kind of document? Select all that apply. 
+> Save, organize, and document code, Create a record of your cleaning process, Generate a report with executable code chunks 
+- A data analyst finishes editing an R Markdown notebook and wants to convert it to a new format they can share. What are their options? Select all that apply.
+> Dashboards, slide presentations, word documents
+- A data analyst wants to change their header to be one font size smaller. What should they add to their markdown syntax? 
+> Hashtag
+- Fill in the blank: _____ code is code that can be inserted directly into a .rmd file. 
+> Markdown
+- A data analyst wants to add a bulleted list to their R Markdown document. What symbol can they type to create this formatting?
+> Asterisk
+- Fill in the blank: Code added to an .rmd file is usually referred to as a code _____. This allows users to execute R code from within the .rmd file. 
+> chunk
+- A data analyst adds specific characters before and after their code chunk to mark where the data item begins and ends in the .rmd file. What are these characters called?
+> Delimeters
+- A data analyst who works with R creates a weekly sales report by remaking their .rmd file and converting it to a report. What can they do to streamline this process?
+> Create a template
+
+
