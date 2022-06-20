@@ -14,3 +14,9 @@
 > Testing if the mean values of two groups are statistically different. 
 - After you write code in an R script file or the R Console, what component of the R environment parses the code into objects in memory?
 > R interpreter
+# Week Two
+-  What is a nominal factor?
+> A factor with no implied order. 
+- What is the main difference between a matrix and an array? 
+
+ 
