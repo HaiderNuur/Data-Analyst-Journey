@@ -18,5 +18,20 @@
 -  What is a nominal factor?
 > A factor with no implied order. 
 - What is the main difference between a matrix and an array? 
+# week three
+-  Which looping statement should you use if you want to continue to perform an operation if the value of an expression is true?
+> while
+-  What happens if a user-defined function is missing the return statement?
+> The function returns the last evaluated expression in the function. 
+- Assume you have a variable called word_string that contains the string “The quick red fox jumped over the lazy dog.” Which function can you use to replace the word “dog” with the word “cat” in the word_string variable?
+> chartr
+- Which of the following statements about regular expressions are true? Select two answers.
+> Regular expressions are used to match patterns in strings and text. , Regular expressions are primarily used for data extraction.
+-  How do you convert a UNIX date/time format to an R Date object?
+>  Pass the UNIX date/time value to the as.POSIXct() function and then pass that value to the as.Date() function.
+-  What type of statement should you add to your code if you know that an error or warning might occur?
+> tryCatch
+ ## graded quiz
+ -  How do you define a global variable in a function?
+> with this <<- 
 
- 
