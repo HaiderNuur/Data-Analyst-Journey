@@ -34,4 +34,16 @@
  ## graded quiz
  -  How do you define a global variable in a function?
 > with this <<- 
-
+# Week Four
+## practice quiz
+-  Which package do you need to install before reading an Excel file in R?
+> readxl
+-  What is the purpose of the readLines() function?
+> Reads each text line (ending with a line break) in a text file and returns a character vector.
+- Which data structure is more suitable to be exported into a text file rather than a .csv or Excel file?
+> strings or characters
+# graded
+-How do you return the number of characters in each paragraph of a text file that has been read into a character vector?
+> nchar
+-  Which package do you need to install before writing to an Excel file in R?
+> xlsx
