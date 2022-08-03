@@ -18,3 +18,13 @@ help Thomas Omar from on the rise, solve his forecasting challenge.
 2. Conditional Formating - Format> Conditional formatting, choose single color or color scale to play with it.
 
 ## Module 2
+# Quiz
+- Thomas sends “South America forecast report” to On the Rise partner owner Seroja Malone. Seroja wants to create a data validation rule to ensure that Column C only includes sales from the month of June. What does she need to do? Select all that apply. 
+> She can open the Data menu, select Data validation, choose Column C, select Add criteria, and choose Text equals June. Then, select Save, She can right click on Column C, select Data validation, select Add criteria, and choose Text equals June. Then, select Save
+
+- Seroja selects the cell H30. It contains the following formula: =H1+H8. She copies the contents from H30 to cell I30. What happens to the formula? Select the correct response.
+> The formula automatically updates to =I1+I8
+- Seroja determines that she does not want the formula in cell H30 to change from =H1+H8 when she copies it to cell I30. What does she need to do to keep the formula constant when copy pasting? Select the correct response.
+> She can turn it into an absolute reference by changing the formula to =$H1+$H8
+
+## Module 3
