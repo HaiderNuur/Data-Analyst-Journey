@@ -28,3 +28,9 @@ help Thomas Omar from on the rise, solve his forecasting challenge.
 > She can turn it into an absolute reference by changing the formula to =$H1+$H8
 
 ## Module 3
+Quiz
+- On the Rise store owner Yousef Amadi is analyzing monthly sales data from his Fort Lauderdale store. He’d like to see the data visually by converting it into a bar chart. What does he need to do? Select the correct response.
+> He needs to select the range of cells to include, open the Insert menu, select Chart, then choose Bar Chart
+- Kaina Gao is reviewing a Google Sheet with thousands of cells of data from the On the Rise marketing team. It's suggested she use a pivot table to summarize the data. Why would this be beneficial? Select all that apply. 
+> The pivot table will make it easy to display different data summaries, The pivot table will make efficient analysis of the data, pivot chart will make creating a report simple.
+
