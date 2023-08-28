@@ -1,5 +1,8 @@
 **Course completed on 27/08/2023**
-
+# Transferable skills from this course
+#### Importance of communication
+#### Data professional tools
+#### Python for dataset management
 # Learning topics with Notebook practices**
 - Variables and data types
 - Conditional Statements
