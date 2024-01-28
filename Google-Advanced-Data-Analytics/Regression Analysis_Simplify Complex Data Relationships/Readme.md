@@ -23,6 +23,7 @@ In this fictional scenario, the New York City Taxi and Limousine Commission (TLC
 
 Since 1971, TLC has been regulating and overseeing the licensing of New York City's taxi cabs, for-hire vehicles, commuter vans, and paratransit vehicles.
 Scenario: The relationship between fare amounts and payment type has been analyzed. The operations manager with New York City TLC is seeking more insight through regression modeling. The team’s next milestone is to run a regression model for taxi fares based on variables in the dataset.
+
 **Tasks:**
 - Compute descriptive statistics
 - Create a regression model from the New York City TLC dataset
@@ -32,6 +33,7 @@ The TikTok data team is developing a machine learning model for classifying clai
 TikTok is the leading destination for short-form mobile video. The platform is built to help imaginations thrive. TikTok's mission is to create a place for inclusive, joyful, and authentic content–where people can safely discover, create, and connect.
 
 Scenario: The data team at TikTok is close to their goal of building a model to assist in the classification of claims in videos. The next step is to use the project data to create a regression model. As a member of TikTok’s data team, you'll determine the type of regression model that is needed and develop one using TikTok's claim classification data.
+
 **Tasks**
 - Import relevant packages and TikTok data
 - Exploratory data analysis and check model assumptions
